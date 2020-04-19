@@ -1,0 +1,1585 @@
+﻿Log file open, 03/31/20 17:37:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: machinimaProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.101417
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=juuciii -epicuserid=55689d880617455785f7fb8024775b47 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.37.23:864][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.31-22.37.23:864][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.37.23:864][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.37.23:868][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.31-22.37.23:868][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.31-22.37.23:869][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.31-22.37.23:869][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.31-22.37.23:869][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.31-22.37.23:873][  0]LogHAL: Display: Platform has ~ 16 GB [17052733440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.31-22.37.23:873][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.31-22.37.23:873][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.31-22.37.23:873][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.31-22.37.23:874][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.37.23:876][  0]LogInit: Computer: DESKTOP-EGHS57I
+[2020.03.31-22.37.23:876][  0]LogInit: User: orinp
+[2020.03.31-22.37.23:876][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.31-22.37.23:876][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.31-22.37.23:876][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.31-22.37.23:876][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.31-22.37.23:876][  0]LogMemory: Process Physical Memory: 104.77 MB used, 104.78 MB peak
+[2020.03.31-22.37.23:876][  0]LogMemory: Process Virtual Memory: 100.90 MB used, 100.90 MB peak
+[2020.03.31-22.37.23:876][  0]LogMemory: Physical Memory: 6567.95 MB used,  9694.81 MB free, 16262.75 MB total
+[2020.03.31-22.37.23:876][  0]LogMemory: Virtual Memory: 5103.17 MB used,  134212624.00 MB free, 134217728.00 MB total
+[2020.03.31-22.37.23:882][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.31-22.37.23:910][  0]LogInit: Using OS detected language (en-US).
+[2020.03.31-22.37.23:910][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.31-22.37.23:912][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.31-22.37.24:082][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.31-22.37.24:134][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.31-22.37.24:134][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.31-22.37.24:416][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.31-22.37.24:417][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.31-22.37.24:417][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.31-22.37.24:417][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.31-22.37.24:493][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2020.03.31-22.37.24:493][  0]LogD3D11RHI:       1983/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.31-22.37.24:507][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.03.31-22.37.24:507][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.31-22.37.24:511][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.31-22.37.24:511][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.31-22.37.24:511][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.31-22.37.24:565][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.31-22.37.24:565][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.31-22.37.24:565][  0]LogWindows: EnumDisplayDevices:
+[2020.03.31-22.37.24:565][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.03.31-22.37.24:566][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.03.31-22.37.24:566][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.03.31-22.37.24:567][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.31-22.37.24:567][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2020.03.31-22.37.24:567][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.31-22.37.24:567][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.31-22.37.24:567][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2020.03.31-22.37.24:605][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.31-22.37.24:605][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.31-22.37.24:622][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.03.31-22.37.25:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.31-22.37.25:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.31-22.37.25:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.31-22.37.25:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.31-22.37.25:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.31-22.37.25:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.31-22.37.25:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.31-22.37.25:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.31-22.37.25:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.31-22.37.25:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.31-22.37.25:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.31-22.37.25:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.31-22.37.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.31-22.37.25:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.31-22.37.25:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.31-22.37.25:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.31-22.37.25:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.31-22.37.25:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.31-22.37.25:321][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.31-22.37.25:329][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.31-22.37.25:373][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/orinp/Desktop/machinimaProject/Intermediate/Shaders/WorkingDirectory/14956/).
+[2020.03.31-22.37.25:373][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/orinp/AppData/Local/Temp/UnrealShaderWorkingDir/CD3BD58044B1D67112AABD9CC115B13D/'.
+[2020.03.31-22.37.25:374][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.31-22.37.25:374][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.31-22.37.25:374][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.31-22.37.26:354][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.31-22.37.26:417][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/orinp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.31-22.37.26:417][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/orinp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.31-22.37.26:417][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/orinp/Desktop/machinimaProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.31-22.37.26:417][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.31-22.37.26:417][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/orinp/Desktop/machinimaProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.31-22.37.26:417][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.31-22.37.26:430][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.31-22.37.26:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.31-22.37.26:430][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.31-22.37.26:432][  0]LogDerivedDataCache: Using Local data cache path C:/Users/orinp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.31-22.37.26:432][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.31-22.37.26:432][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.31-22.37.26:464][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.31-22.37.26:467][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.31-22.37.26:468][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.31-22.37.26:553][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2020.03.31-22.37.26:982][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.31-22.37.27:217][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.31-22.37.27:217][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.31-22.37.27:217][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.31-22.37.27:217][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.31-22.37.27:217][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.31-22.37.27:232][  0]LogNetVersion: machinimaProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3622812282)
+[2020.03.31-22.37.28:693][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041226 seconds
+[2020.03.31-22.37.28:700][  0]LogUObjectArray: 46746 objects as part of root set at end of initial load.
+[2020.03.31-22.37.28:700][  0]LogUObjectAllocator: 8135816 out of 0 bytes used by permanent object pool.
+[2020.03.31-22.37.28:700][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.31-22.37.29:160][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.31-22.37.29:163][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.31-22.37.29:223][  0]SourceControl: Source control is disabled
+[2020.03.31-22.37.29:223][  0]SourceControl: Source control is disabled
+[2020.03.31-22.37.29:224][  0]SourceControl: Source control is disabled
+[2020.03.31-22.37.29:226][  0]SourceControl: Source control is disabled
+[2020.03.31-22.37.29:227][  0]SourceControl: Source control is disabled
+[2020.03.31-22.37.29:331][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.31-22.37.29:343][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.31-22.37.29:343][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.31-22.37.29:439][  0]LogOcInput: OculusInput pre-init called
+[2020.03.31-22.37.29:450][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.31-22.37.29:450][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.31-22.37.29:535][  0]LogEngine: Initializing Engine...
+[2020.03.31-22.37.29:537][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.31-22.37.29:539][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.03.31-22.37.30:101][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.31-22.37.30:114][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.31-22.37.30:119][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-22.37.30:119][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-22.37.30:119][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-22.37.30:119][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-22.37.30:119][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-22.37.30:119][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-22.37.30:119][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-22.37.30:119][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-22.37.30:119][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-22.37.30:119][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-22.37.30:187][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-22.37.30:187][  0]LogAudioMixer: Display: Name: Speakers (Logitech G430 Gaming Headset)
+[2020.03.31-22.37.30:187][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-22.37.30:187][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.31-22.37.30:187][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-22.37.30:187][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-22.37.30:187][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.31-22.37.30:187][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-22.37.30:187][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-22.37.30:231][  0]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G430 Gaming Headset)
+[2020.03.31-22.37.30:237][  0]LogInit: FAudioDevice initialized.
+[2020.03.31-22.37.30:238][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.31-22.37.30:525][  0]LogDerivedDataCache: Saved boot cache 0.29s 78MB C:/Users/orinp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.31-22.37.30:526][  0]LogInit: Texture streaming: Enabled
+[2020.03.31-22.37.30:549][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.31-22.37.30:549][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.31-22.37.30:569][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.31-22.37.30:634][  0]LogInit: Transaction tracking system initialized
+[2020.03.31-22.37.30:655][  0]BlueprintLog: New page: Editor Load
+[2020.03.31-22.37.30:712][  0]LocalizationService: Localization service is disabled
+[2020.03.31-22.37.31:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/' took 0.03s
+[2020.03.31-22.37.31:351][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.31-22.37.31:352][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.31-22.37.32:696][  0]SourceControl: Source control is disabled
+[2020.03.31-22.37.32:696][  0]Cmd: MAP LOAD FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.31-22.37.32:697][  0]LightingResults: New page: Lighting Build
+[2020.03.31-22.37.32:699][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-22.37.32:699][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-22.37.32:699][  0]MapCheck: New page: Map Check
+[2020.03.31-22.37.32:699][  0]LightingResults: New page: Lighting Build
+[2020.03.31-22.37.32:744][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.03.31-22.37.33:127][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.31-22.37.33:136][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.31-22.37.33:177][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.03.31-22.37.33:178][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.31-22.37.33:178][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.315ms to complete.
+[2020.03.31-22.37.33:178][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.482
+[2020.03.31-22.37.33:374][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-22.37.33:388][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-22.37.33:400][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-22.37.33:411][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-22.37.33:432][  0]LogCollectionManager: Loaded 0 collections in 0.004045 seconds
+[2020.03.31-22.37.33:450][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Saved/Collections/' took 0.00s
+[2020.03.31-22.37.33:450][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/Developers/orinp/Collections/' took 0.00s
+[2020.03.31-22.37.33:451][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/Collections/' took 0.00s
+[2020.03.31-22.37.33:451][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 3015 classes and 717 folders.
+[2020.03.31-22.37.33:455][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.31-22.37.33:619][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.31-22.37.33:638][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.03.31-22.37.33:724][  0]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.31-22.37.33:727][  0]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.31-22.37.33:737][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.31-22.37.33:853][  0]LogRenderer: Reallocating scene render targets to support 948x396 Format 10 NumSamples 1 (Frame:1).
+[2020.03.31-22.37.34:002][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.31-22.37.34:002][  0]LogLoad: (Engine Initialization) Total time: 13.30 seconds
+[2020.03.31-22.37.34:002][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.31-22.37.34:073][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.31-22.37.34:109][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.31-22.37.34:133][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/' took 0.11s
+[2020.03.31-22.37.34:164][  1]LogAssetRegistry: Asset discovery search completed in 7.6117 seconds
+[2020.03.31-22.37.34:170][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000026 seconds (updated 0 objects)
+[2020.03.31-22.37.46:995][591]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.31-22.37.47:316][591]LogAIModule: Creating AISystem for world GuardDogsHouseScene
+[2020.03.31-22.37.47:325][591]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GuardDogsHouseScene.GuardDogsHouseScene
+[2020.03.31-22.37.47:353][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.03.31-22.37.47:355][591]Cmd: MAP LOAD FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/GuardDogsHouseScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.31-22.37.47:355][591]LightingResults: New page: Lighting Build
+[2020.03.31-22.37.47:356][591]LoadErrors: New page: Loading map: GuardDogsHouseScene.umap
+[2020.03.31-22.37.47:356][591]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-22.37.47:356][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-22.37.47:356][591]MapCheck: New page: Map Check
+[2020.03.31-22.37.47:357][591]LightingResults: New page: Lighting Build
+[2020.03.31-22.37.47:386][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.03.31-22.37.47:390][591]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.31-22.37.47:420][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.03.31-22.37.47:449][591]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.31-22.37.47:449][591]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
+[2020.03.31-22.37.47:449][591]LogFileHelpers: Loading map 'GuardDogsHouseScene' took 0.095
+[2020.03.31-22.38.00:671][182]LogAIModule: Creating AISystem for world CityOfGuardDog
+[2020.03.31-22.38.01:405][182]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CityOfGuardDog.CityOfGuardDog
+[2020.03.31-22.38.01:562][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.03.31-22.38.01:565][182]Cmd: MAP LOAD FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.31-22.38.01:565][182]LightingResults: New page: Lighting Build
+[2020.03.31-22.38.01:566][182]LoadErrors: New page: Loading map: CityOfGuardDog.umap
+[2020.03.31-22.38.01:567][182]LogWorld: UWorld::CleanupWorld for GuardDogsHouseScene, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-22.38.01:567][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-22.38.01:567][182]MapCheck: New page: Map Check
+[2020.03.31-22.38.01:567][182]LightingResults: New page: Lighting Build
+[2020.03.31-22.38.01:603][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.03.31-22.38.02:579][182]LogEditorServer: Finished looking for orphan Actors (0.002 secs)
+[2020.03.31-22.38.02:704][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.03.31-22.38.02:723][182]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.31-22.38.02:724][182]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.445ms to complete.
+[2020.03.31-22.38.02:724][182]LogFileHelpers: Loading map 'CityOfGuardDog' took 1.159
+[2020.03.31-22.38.11:554][545]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/sequences/FSTabbySlammingMook.FSTabbySlammingMook
+[2020.03.31-22.41.16:265][931]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/sequences/FSGuardDogNoticesAFIght.FSGuardDogNoticesAFIght
+[2020.03.31-22.41.27:956][446]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/sequences/FSCloseUpOnGuardDogsFace.FSCloseUpOnGuardDogsFace
+[2020.03.31-22.41.31:144][579]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/sequences/FSCloseUpOnGuardDog.FSCloseUpOnGuardDog
+[2020.03.31-22.41.53:081][490]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CityOfGuardDog.CityOfGuardDog:PersistentLevel.CityOfGuardDog
+[2020.03.31-22.41.53:399][490]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.03.31-22.41.54:334][490]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.31-22.41.54:381][491]LogSlate: Took 0.001083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.31-22.41.58:086][621]LogSlate: Window 'CityOfGuardDog' being destroyed
+[2020.03.31-22.41.58:133][621]LogSlate: Window 'CityOfGuardDog' being destroyed
+[2020.03.31-22.41.58:134][621]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-22.41.58:134][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-22.42.51:676][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSCloseUpOnGuardDogsFace261C10454AA14FF34C2551A4007DA8AC.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/FSCloseUpOnGuardDogsFace.uasset'
+[2020.03.31-22.42.51:754][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSTabbySlammingMook7BC0FDF74FC74A64986D57A237BB7F59.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/FSTabbySlammingMook.uasset'
+[2020.03.31-22.42.51:816][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSGuardDogNoticesAFIghtA0D9A30C4D767CB520732A9553E1803E.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/FSGuardDogNoticesAFIght.uasset'
+[2020.03.31-22.42.51:891][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSCloseUpOnGuardDog43229BA341543D4E810627BD5E3DAF8D.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/FSCloseUpOnGuardDog.uasset'
+[2020.03.31-22.42.51:956][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSGuardDogThisCityWillBeFineBE9671EB46038FEF4C3BCD9BB0E49095.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/FSGuardDogThisCityWillBeFine.uasset'
+[2020.03.31-22.42.52:036][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSGuardDogWatchingTheFightD78D9C3B4CC4B8A14AA57FB654DF070E.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/FSGuardDogWatchingTheFight.uasset'
+[2020.03.31-22.42.52:094][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GDStandingInDoorway36BC6201460A7B62172444A6519773AA.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/Hospital2_GDStandingInDoorway.uasset'
+[2020.03.31-22.42.52:140][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GuardDogLooksOutTheWinD6AF0A2847F24FE5AF1F4EBD49E7DBC2.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/Hospital2_GuardDogLooksOutTheWindow.uasset'
+[2020.03.31-22.42.52:201][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GuardDogTalksWhileLeavBAF15456431C3FEC09598D8ED5C8FA65.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/Hospital2_GuardDogTalksWhileLeaving.uasset'
+[2020.03.31-22.42.52:272][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GuardDogTurnsAndTalksT1BDF5129437F4FB8C8EF82B463B4E29B.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/Hospital2_GuardDogTurnsAndTalksToMayor.uasset'
+[2020.03.31-22.42.52:361][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_MayorWakesUpBC9662F54C34D634290266A535CACF06.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/Hospital2_MayorWakesUp.uasset'
+[2020.03.31-22.42.57:008][677]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.03.31-22.42.57:049][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.03.31-22.42.57:091][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.31-22.42.57:131][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.31-22.42.57:172][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.03.31-22.42.57:222][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.03.31-22.42.57:265][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.03.31-22.42.57:301][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.03.31-22.42.57:343][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.03.31-22.42.57:387][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.03.31-22.42.57:441][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.03.31-22.42.57:497][677]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.03.31-22.42.57:539][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.03.31-22.42.57:584][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FSCloseUpOnGuardDogsFace" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSCloseUpOnGuardDogsFace.uasset" SILENT=true
+[2020.03.31-22.42.57:615][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSCloseUpOnGuardDogsFace2A32C0F1475467E8C868FB95E7B43464.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSCloseUpOnGuardDogsFace.uasset'
+[2020.03.31-22.42.57:619][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FSTabbySlammingMook" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSTabbySlammingMook.uasset" SILENT=true
+[2020.03.31-22.42.57:635][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSTabbySlammingMookDA3CC3444531E8D0B65296B1BDFE41AF.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSTabbySlammingMook.uasset'
+[2020.03.31-22.42.57:638][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FSGuardDogNoticesAFIght" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSGuardDogNoticesAFIght.uasset" SILENT=true
+[2020.03.31-22.42.57:656][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSGuardDogNoticesAFIght0CA2417D49BDEC25F841D7BAEFC65F76.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSGuardDogNoticesAFIght.uasset'
+[2020.03.31-22.42.57:660][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FSCloseUpOnGuardDog" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSCloseUpOnGuardDog.uasset" SILENT=true
+[2020.03.31-22.42.57:679][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSCloseUpOnGuardDog3BB3C822469CD16AE0559ABF4F1C529E.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSCloseUpOnGuardDog.uasset'
+[2020.03.31-22.42.57:681][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FSGuardDogThisCityWillBeFine" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSGuardDogThisCityWillBeFine.uasset" SILENT=true
+[2020.03.31-22.42.57:698][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSGuardDogThisCityWillBeFine8362F1434FEEA4D721BC1586D438C140.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSGuardDogThisCityWillBeFine.uasset'
+[2020.03.31-22.42.57:701][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FSGuardDogWatchingTheFight" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSGuardDogWatchingTheFight.uasset" SILENT=true
+[2020.03.31-22.42.57:717][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSGuardDogWatchingTheFightAAB778A74807EAE3888CDCA40A35359D.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/FSGuardDogWatchingTheFight.uasset'
+[2020.03.31-22.42.57:721][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hospital2_GDStandingInDoorway" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital2_GDStandingInDoorway.uasset" SILENT=true
+[2020.03.31-22.42.57:738][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GDStandingInDoorway6DFFF0304B687A9A51AD2E9618B5BFB6.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital2_GDStandingInDoorway.uasset'
+[2020.03.31-22.42.57:742][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hospital2_GuardDogLooksOutTheWindow" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital2_GuardDogLooksOutTheWindow.uasset" SILENT=true
+[2020.03.31-22.42.57:759][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GuardDogLooksOutTheWin541263604DFCDEEBB68CA79F3738097B.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital2_GuardDogLooksOutTheWindow.uasset'
+[2020.03.31-22.42.57:762][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hospital2_GuardDogTalksWhileLeaving" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital2_GuardDogTalksWhileLeaving.uasset" SILENT=true
+[2020.03.31-22.42.57:781][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GuardDogTalksWhileLeav91729D894D6911E03AEF6EBC33F8D4E7.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital2_GuardDogTalksWhileLeaving.uasset'
+[2020.03.31-22.42.57:786][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hospital2_GuardDogTurnsAndTalksToMayor" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital2_GuardDogTurnsAndTalksToMayor.uasset" SILENT=true
+[2020.03.31-22.42.57:808][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GuardDogTurnsAndTalksT77DF271C458BC5BA293588A93E6A4236.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital2_GuardDogTurnsAndTalksToMayor.uasset'
+[2020.03.31-22.42.57:811][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hospital2_MayorWakesUp" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital2_MayorWakesUp.uasset" SILENT=true
+[2020.03.31-22.42.57:829][677]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_MayorWakesUp62B1B7354F15F26A2141CAA7542BFBBB.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital2_MayorWakesUp.uasset'
+[2020.03.31-22.42.58:741][677]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/FSCloseUpOnGuardDogsFace.FSCloseUpOnGuardDogsFace
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/FSTabbySlammingMook.FSTabbySlammingMook
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/FSGuardDogNoticesAFIght.FSGuardDogNoticesAFIght
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/FSCloseUpOnGuardDog.FSCloseUpOnGuardDog
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/FSGuardDogThisCityWillBeFine.FSGuardDogThisCityWillBeFine
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/FSGuardDogWatchingTheFight.FSGuardDogWatchingTheFight
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/Hospital2_GDStandingInDoorway.Hospital2_GDStandingInDoorway
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/Hospital2_GuardDogLooksOutTheWindow.Hospital2_GuardDogLooksOutTheWindow
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/Hospital2_GuardDogTalksWhileLeaving.Hospital2_GuardDogTalksWhileLeaving
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/Hospital2_GuardDogTurnsAndTalksToMayor.Hospital2_GuardDogTurnsAndTalksToMayor
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/Hospital2_MayorWakesUp.Hospital2_MayorWakesUp
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating ObjectRedirector /Game/FSCloseUpOnGuardDogsFace.FSCloseUpOnGuardDogsFace
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating ObjectRedirector /Game/FSTabbySlammingMook.FSTabbySlammingMook
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating ObjectRedirector /Game/FSGuardDogNoticesAFIght.FSGuardDogNoticesAFIght
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating ObjectRedirector /Game/FSCloseUpOnGuardDog.FSCloseUpOnGuardDog
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating ObjectRedirector /Game/FSGuardDogThisCityWillBeFine.FSGuardDogThisCityWillBeFine
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating ObjectRedirector /Game/FSGuardDogWatchingTheFight.FSGuardDogWatchingTheFight
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating ObjectRedirector /Game/Hospital2_GDStandingInDoorway.Hospital2_GDStandingInDoorway
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating ObjectRedirector /Game/Hospital2_GuardDogLooksOutTheWindow.Hospital2_GuardDogLooksOutTheWindow
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating ObjectRedirector /Game/Hospital2_GuardDogTalksWhileLeaving.Hospital2_GuardDogTalksWhileLeaving
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating ObjectRedirector /Game/Hospital2_GuardDogTurnsAndTalksToMayor.Hospital2_GuardDogTurnsAndTalksToMayor
+[2020.03.31-22.42.58:741][677]LogContentValidation: Display: Validating ObjectRedirector /Game/Hospital2_MayorWakesUp.Hospital2_MayorWakesUp
+[2020.03.31-22.43.34:387][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital)
+[2020.03.31-22.43.35:445][997]Cmd: EDIT COPY
+[2020.03.31-22.43.35:879][ 13]Cmd: EDIT PASTE
+[2020.03.31-22.44.25:895][919]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.31-22.44.35:958][246]Cmd: DELETE
+[2020.03.31-22.44.35:958][246]Cmd: ACTOR DELETE
+[2020.03.31-22.44.36:291][246]LogEditorActor: Deleted Actor: Brush
+[2020.03.31-22.44.36:336][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.03.31-22.44.36:464][246]LogEditorActor: Deleted 1 Actors (0.504 secs)
+[2020.03.31-22.44.39:743][330]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.31-22.44.52:424][822]Cmd: TRANSACTION UNDO
+[2020.03.31-22.44.52:424][822]LogEditorTransaction: Undo Scale Actors
+[2020.03.31-22.44.53:655][824]Cmd: TRANSACTION UNDO
+[2020.03.31-22.44.53:655][824]LogEditorTransaction: Undo Animatable Property Changed
+[2020.03.31-22.44.57:115][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.44.59:615][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.00:120][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.00:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.01:120][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.01:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.02:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.02:619][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.03:119][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.03:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.04:120][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.04:620][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.05:120][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.05:620][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.06:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.06:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.07:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.07:619][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.08:120][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.08:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.09:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.09:620][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.10:120][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.10:620][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.11:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.11:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.12:120][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.12:620][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.13:120][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.13:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.14:120][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.14:620][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.15:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.15:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.16:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.16:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.17:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.17:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.18:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.18:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.19:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.19:620][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.20:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.20:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.21:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.21:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.22:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.22:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.23:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.23:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.24:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.24:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.25:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.25:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.26:120][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.26:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.27:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.27:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.28:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.28:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.29:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.29:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.30:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.30:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.31:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.31:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.32:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.32:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.33:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.33:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.34:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.34:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.35:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.35:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.36:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.36:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.37:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.37:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.38:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.38:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.39:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.39:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.40:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.40:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.41:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.41:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.42:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.42:621][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.43:121][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.43:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.44:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.44:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.45:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.45:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.46:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.46:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.47:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.47:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.48:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.48:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.49:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.49:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.50:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.50:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.51:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.51:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.52:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.52:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.53:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.53:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.54:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.54:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.55:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.55:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.56:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.56:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.57:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.57:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.58:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.58:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.59:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.45.59:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.00:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.00:622][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.01:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.01:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.02:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.02:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.03:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.03:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.04:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.04:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.05:122][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.05:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.06:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.06:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.07:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.07:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.08:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.08:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.09:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.09:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.10:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.10:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.11:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.11:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.12:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.12:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.13:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.13:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.14:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.14:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.15:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.15:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.16:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.16:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.17:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.17:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.18:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.18:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.19:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.19:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.20:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.20:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.21:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.21:623][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.22:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.22:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.23:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.23:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.24:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.24:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.25:123][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.25:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.26:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.26:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.27:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.27:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.28:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.28:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.29:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.29:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.30:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.30:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.31:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.31:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.32:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.32:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.33:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.33:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.34:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.34:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.35:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.35:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.36:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.36:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.37:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.37:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.38:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.38:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.39:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.39:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.40:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.40:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.41:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.41:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.42:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.42:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.43:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.43:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.44:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.44:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.45:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.45:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.46:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.46:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.47:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.47:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.48:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.48:624][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.49:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.49:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.50:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.50:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.51:124][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.51:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.52:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.52:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.53:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.53:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.54:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.54:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.55:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.55:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.56:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.56:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.57:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.57:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.58:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.58:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.59:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.46.59:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.00:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.00:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.01:125][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.01:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.02:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.02:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.03:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.03:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.04:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.04:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.05:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.05:625][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.06:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.06:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.07:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.07:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.08:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.08:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.09:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.09:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.10:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.10:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.11:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.11:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.12:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.12:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.13:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.13:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.14:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.14:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.15:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.15:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.16:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.16:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.17:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.17:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.18:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.18:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.19:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.19:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.20:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.20:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.21:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.21:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.22:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.22:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.23:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.23:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.24:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.24:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.25:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.25:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.26:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.26:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.27:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.27:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.28:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.28:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.29:126][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.29:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.30:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.30:626][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.31:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.31:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.32:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.32:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.33:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.33:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.34:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.34:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.35:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.35:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.36:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.36:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.37:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.37:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.38:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.38:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.39:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.39:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.40:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.40:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.41:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.41:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.42:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.42:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.43:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.43:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.44:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.44:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.45:127][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.45:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.46:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.46:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.47:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.47:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.48:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.48:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.49:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.49:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.50:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.50:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.51:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.51:627][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.52:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.52:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.53:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.53:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.54:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.54:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.55:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.55:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.56:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.56:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.57:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.57:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.58:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.58:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.59:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.47.59:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.00:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.00:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.01:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.01:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.02:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.02:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.03:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.03:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.04:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.04:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.05:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.05:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.06:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.06:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.07:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.07:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.08:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.08:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.09:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.09:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.10:128][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.10:628][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.11:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.11:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.12:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.12:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.13:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.13:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.14:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.14:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.15:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.15:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.16:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.16:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.17:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.17:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.18:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.18:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.19:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.19:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.20:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.20:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.21:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.21:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.22:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.22:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.23:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.23:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.24:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.24:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.25:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.25:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.26:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.26:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.27:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.27:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.28:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.28:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.29:129][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.29:629][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.30:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.30:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.31:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.31:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.32:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.32:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.33:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.33:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.34:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.34:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.35:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.35:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.36:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.36:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.37:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.37:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.38:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.38:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.39:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.39:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.40:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.40:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.41:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.41:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.42:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.42:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.43:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.43:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.44:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.44:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.45:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.45:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.46:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.46:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.47:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.47:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.48:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.48:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.49:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.49:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.50:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.50:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.51:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.51:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.52:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.52:630][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.53:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.53:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.54:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.54:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.55:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.55:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.56:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.56:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.57:130][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.57:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.58:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.58:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.59:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.48.59:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.00:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.00:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.01:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.01:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.02:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.02:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.03:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.03:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.04:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.04:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.05:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.05:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.06:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.06:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.07:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.07:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.08:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.08:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.09:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.09:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.10:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.10:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.11:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.11:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.12:131][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.12:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.13:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.13:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.14:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.14:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.15:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.15:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.16:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.16:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.17:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.17:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.18:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.18:631][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.19:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.19:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.20:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.20:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.21:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.21:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.22:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.22:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.23:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.23:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.24:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.24:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.25:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.25:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.26:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.26:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.27:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.27:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.28:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.28:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.29:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.29:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.30:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.30:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.31:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.31:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.32:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.32:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.33:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.33:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.34:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.34:632][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.35:132][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.35:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.36:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.36:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.37:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.37:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.38:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.38:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.39:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.39:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.40:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.40:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.41:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.41:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.42:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.42:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.43:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.43:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.44:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.44:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.45:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.45:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.46:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.46:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.47:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.47:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.48:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.48:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.49:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.49:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.50:133][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.50:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.51:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.51:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.52:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.52:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.53:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.53:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.54:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.54:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.55:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.55:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.56:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.56:633][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.57:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.57:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.58:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.58:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.59:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.49.59:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.00:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.00:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.01:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.01:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.02:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.02:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.03:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.03:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.04:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.04:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.05:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.05:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.06:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.06:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.07:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.07:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.08:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.08:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.09:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.09:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.10:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.10:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.11:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.11:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.12:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.12:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.13:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.13:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.14:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.14:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.15:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.15:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.16:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.16:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.17:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.17:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.18:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.18:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.19:134][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.19:634][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.20:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.20:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.21:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.21:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.22:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.22:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.23:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.23:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.24:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.24:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.25:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.25:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.26:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.26:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.27:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.27:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.28:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.28:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.29:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.29:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.30:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.30:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.31:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.31:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.32:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.32:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.33:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.33:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.34:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.34:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.35:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.35:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.36:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.36:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.37:135][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.37:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.38:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.38:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.39:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.39:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.40:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.40:635][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.41:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.41:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.42:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.42:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.43:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.43:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.44:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.44:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.45:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.45:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.46:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.46:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.47:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.47:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.48:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.48:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.49:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.49:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.50:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.50:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.51:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.51:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.52:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.52:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.53:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.53:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.54:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.54:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.55:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.55:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.56:136][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.56:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.57:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.57:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.58:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.58:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.59:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.50.59:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.00:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.00:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.01:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.01:636][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.02:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.02:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.03:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.03:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.04:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.04:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.05:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.05:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.06:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.06:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.07:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.07:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.08:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.08:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.09:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.09:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.10:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.10:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.11:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.11:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.12:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.12:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.13:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.13:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.14:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.14:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.15:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.15:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.16:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.16:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.17:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.17:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.18:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.18:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.19:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.19:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.20:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.20:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.21:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.21:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.22:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.22:637][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.23:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.23:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.24:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.24:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.25:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.25:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.26:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.26:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.27:137][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.27:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.28:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.28:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.29:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.29:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.30:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.30:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.31:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.31:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.32:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.32:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.33:140][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.33:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.34:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.34:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.35:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.35:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.36:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.36:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.37:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.37:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.38:140][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.38:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.39:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.39:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.40:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.40:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.41:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.41:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.42:140][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.42:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.43:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.43:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.44:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.44:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.45:140][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.45:638][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.46:138][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.46:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.47:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.47:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.48:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.48:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.49:140][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.49:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.50:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.50:639][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.51:139][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.51:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.52:140][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.52:640][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SyncInterval 0
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.BufferDesc.Width 3872
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.BufferDesc.Height 2092
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002806E6
+[2020.03.31-22.51.52:740][851]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.03.31-22.51.52:741][851]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.03.31-22.51.52:741][851]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.03.31-22.51.52:741][851]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:389 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2020.03.31-22.51.52:741][851]LogD3D11RHI: [Aftermath] GDynamicRHI=000002755AB740C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.03.31-22.51.52:741][851]LogWindows: Windows GetLastError: The operation completed successfully. (0)

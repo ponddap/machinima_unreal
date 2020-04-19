@@ -1,0 +1,1127 @@
+﻿Log file open, 03/31/20 17:53:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: machinimaProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.121964
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=juuciii -epicuserid=55689d880617455785f7fb8024775b47 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.53.43:826][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.31-22.53.43:826][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.53.43:826][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.53.43:829][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:829][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.31-22.53.43:829][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.31-22.53.43:829][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:829][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.31-22.53.43:830][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.31-22.53.43:831][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.31-22.53.43:831][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.31-22.53.43:831][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.31-22.53.43:834][  0]LogHAL: Display: Platform has ~ 16 GB [17052733440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.31-22.53.43:834][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.31-22.53.43:834][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:834][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.31-22.53.43:834][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.31-22.53.43:834][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:834][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.31-22.53.43:835][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.31-22.53.43:836][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.31-22.53.43:837][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.31-22.53.43:837][  0]LogInit: Computer: DESKTOP-EGHS57I
+[2020.03.31-22.53.43:837][  0]LogInit: User: orinp
+[2020.03.31-22.53.43:837][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.31-22.53.43:837][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.31-22.53.43:837][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.31-22.53.43:837][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.31-22.53.43:837][  0]LogMemory: Process Physical Memory: 104.93 MB used, 104.94 MB peak
+[2020.03.31-22.53.43:837][  0]LogMemory: Process Virtual Memory: 100.71 MB used, 100.71 MB peak
+[2020.03.31-22.53.43:837][  0]LogMemory: Physical Memory: 6849.00 MB used,  9413.75 MB free, 16262.75 MB total
+[2020.03.31-22.53.43:837][  0]LogMemory: Virtual Memory: 5103.17 MB used,  134212624.00 MB free, 134217728.00 MB total
+[2020.03.31-22.53.43:842][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.31-22.53.43:869][  0]LogInit: Using OS detected language (en-US).
+[2020.03.31-22.53.43:869][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.31-22.53.43:870][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.31-22.53.44:020][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.31-22.53.44:063][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.31-22.53.44:063][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.31-22.53.44:337][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.31-22.53.44:337][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.31-22.53.44:337][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.31-22.53.44:337][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.31-22.53.44:408][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2020.03.31-22.53.44:408][  0]LogD3D11RHI:       1983/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.31-22.53.44:420][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.03.31-22.53.44:420][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.31-22.53.44:424][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.31-22.53.44:424][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.31-22.53.44:424][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.31-22.53.44:475][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.31-22.53.44:475][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.31-22.53.44:475][  0]LogWindows: EnumDisplayDevices:
+[2020.03.31-22.53.44:475][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.03.31-22.53.44:476][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.03.31-22.53.44:476][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.03.31-22.53.44:477][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.31-22.53.44:477][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2020.03.31-22.53.44:477][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.31-22.53.44:477][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.31-22.53.44:477][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2020.03.31-22.53.44:515][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.31-22.53.44:516][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.31-22.53.44:534][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.03.31-22.53.44:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.31-22.53.44:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.31-22.53.44:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.31-22.53.44:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.31-22.53.44:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.31-22.53.44:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.31-22.53.44:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.31-22.53.44:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.31-22.53.44:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.31-22.53.44:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.31-22.53.44:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.31-22.53.44:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.31-22.53.44:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.31-22.53.44:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.31-22.53.44:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.31-22.53.44:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.31-22.53.44:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.31-22.53.44:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.31-22.53.44:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.31-22.53.44:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.31-22.53.44:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.31-22.53.44:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.31-22.53.44:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.31-22.53.44:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.31-22.53.44:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.31-22.53.44:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.31-22.53.44:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.31-22.53.45:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.31-22.53.45:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.31-22.53.45:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.31-22.53.45:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.31-22.53.45:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.31-22.53.45:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.31-22.53.45:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.31-22.53.45:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.31-22.53.45:084][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.31-22.53.45:091][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.31-22.53.45:126][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/orinp/Desktop/machinimaProject/Intermediate/Shaders/WorkingDirectory/10828/).
+[2020.03.31-22.53.45:126][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/orinp/AppData/Local/Temp/UnrealShaderWorkingDir/0691C6DA47F555469EC576ACF0415AF2/'.
+[2020.03.31-22.53.45:126][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.31-22.53.45:127][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.31-22.53.45:127][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.31-22.53.45:854][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.31-22.53.45:906][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/orinp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.31-22.53.45:906][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/orinp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.31-22.53.45:906][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/orinp/Desktop/machinimaProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.31-22.53.45:906][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.31-22.53.45:906][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/orinp/Desktop/machinimaProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.31-22.53.45:906][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.31-22.53.45:915][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.31-22.53.45:915][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.31-22.53.45:915][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.31-22.53.45:917][  0]LogDerivedDataCache: Using Local data cache path C:/Users/orinp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.31-22.53.45:917][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.31-22.53.45:917][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.31-22.53.45:946][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.31-22.53.45:948][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.31-22.53.45:949][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.31-22.53.46:020][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2020.03.31-22.53.46:384][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.31-22.53.46:545][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.31-22.53.46:545][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.31-22.53.46:545][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.31-22.53.46:545][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.31-22.53.46:545][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.31-22.53.46:557][  0]LogNetVersion: machinimaProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3622812282)
+[2020.03.31-22.53.47:774][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.035367 seconds
+[2020.03.31-22.53.47:780][  0]LogUObjectArray: 46746 objects as part of root set at end of initial load.
+[2020.03.31-22.53.47:780][  0]LogUObjectAllocator: 8135816 out of 0 bytes used by permanent object pool.
+[2020.03.31-22.53.47:780][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.31-22.53.48:189][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.31-22.53.48:192][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.31-22.53.48:252][  0]SourceControl: Source control is disabled
+[2020.03.31-22.53.48:252][  0]SourceControl: Source control is disabled
+[2020.03.31-22.53.48:254][  0]SourceControl: Source control is disabled
+[2020.03.31-22.53.48:255][  0]SourceControl: Source control is disabled
+[2020.03.31-22.53.48:256][  0]SourceControl: Source control is disabled
+[2020.03.31-22.53.48:351][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.31-22.53.48:361][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.31-22.53.48:361][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.31-22.53.48:441][  0]LogOcInput: OculusInput pre-init called
+[2020.03.31-22.53.48:450][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.31-22.53.48:450][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.31-22.53.48:530][  0]LogEngine: Initializing Engine...
+[2020.03.31-22.53.48:531][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.31-22.53.48:532][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.31-22.53.49:049][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.31-22.53.49:064][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.31-22.53.49:067][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-22.53.49:067][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-22.53.49:068][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-22.53.49:068][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-22.53.49:068][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-22.53.49:068][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-22.53.49:068][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-22.53.49:068][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-22.53.49:068][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-22.53.49:068][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-22.53.49:138][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-22.53.49:138][  0]LogAudioMixer: Display: Name: Speakers (Logitech G430 Gaming Headset)
+[2020.03.31-22.53.49:138][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-22.53.49:138][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.31-22.53.49:138][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-22.53.49:138][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-22.53.49:138][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.31-22.53.49:138][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-22.53.49:138][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-22.53.49:189][  0]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G430 Gaming Headset)
+[2020.03.31-22.53.49:197][  0]LogInit: FAudioDevice initialized.
+[2020.03.31-22.53.49:197][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.31-22.53.49:454][  0]LogDerivedDataCache: Saved boot cache 0.26s 78MB C:/Users/orinp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.31-22.53.49:455][  0]LogInit: Texture streaming: Enabled
+[2020.03.31-22.53.49:471][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.31-22.53.49:471][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.31-22.53.49:508][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.31-22.53.49:583][  0]LogInit: Transaction tracking system initialized
+[2020.03.31-22.53.49:599][  0]BlueprintLog: New page: Editor Load
+[2020.03.31-22.53.49:642][  0]LocalizationService: Localization service is disabled
+[2020.03.31-22.53.50:030][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/' took 0.02s
+[2020.03.31-22.53.50:031][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.31-22.53.50:031][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.31-22.53.51:249][  0]SourceControl: Source control is disabled
+[2020.03.31-22.53.51:249][  0]Cmd: MAP LOAD FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.31-22.53.51:250][  0]LightingResults: New page: Lighting Build
+[2020.03.31-22.53.51:250][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-22.53.51:250][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-22.53.51:250][  0]MapCheck: New page: Map Check
+[2020.03.31-22.53.51:250][  0]LightingResults: New page: Lighting Build
+[2020.03.31-22.53.51:279][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.03.31-22.53.51:682][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.31-22.53.51:690][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.31-22.53.51:734][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.03.31-22.53.51:734][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.31-22.53.51:735][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.506ms to complete.
+[2020.03.31-22.53.51:735][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.486
+[2020.03.31-22.53.51:934][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-22.53.51:952][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-22.53.51:967][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-22.53.51:983][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-22.53.52:004][  0]LogCollectionManager: Loaded 0 collections in 0.005475 seconds
+[2020.03.31-22.53.52:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Saved/Collections/' took 0.00s
+[2020.03.31-22.53.52:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/Developers/orinp/Collections/' took 0.00s
+[2020.03.31-22.53.52:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/Collections/' took 0.00s
+[2020.03.31-22.53.52:035][  0]LogContentBrowser: Native class hierarchy populated in 0.0184 seconds. Added 3015 classes and 717 folders.
+[2020.03.31-22.53.52:041][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.03.31-22.53.52:256][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.03.31-22.53.52:268][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.03.31-22.53.52:352][  0]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.31-22.53.52:356][  0]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.31-22.53.52:368][  0]LogSlate: Took 0.000447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.31-22.53.52:521][  0]LogRenderer: Reallocating scene render targets to support 948x396 Format 10 NumSamples 1 (Frame:1).
+[2020.03.31-22.53.52:691][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.31-22.53.52:691][  0]LogLoad: (Engine Initialization) Total time: 11.76 seconds
+[2020.03.31-22.53.52:691][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.31-22.53.52:772][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.31-22.53.52:821][  0]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.31-22.53.52:837][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/' took 0.12s
+[2020.03.31-22.53.52:928][  2]LogAssetRegistry: Asset discovery search completed in 6.9095 seconds
+[2020.03.31-22.53.52:935][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000022 seconds (updated 0 objects)
+[2020.03.31-22.53.54:242][  6]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.31-22.54.12:497][253]LogLinker: Warning: Failed to load '/Game/sequences/FSCloseUpOnGuardDog.FSCloseUpOnGuardDog': Can't find file.
+[2020.03.31-22.54.20:411][575]LogAIModule: Creating AISystem for world CityOfGuardDog
+[2020.03.31-22.54.20:888][575]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CityOfGuardDog.CityOfGuardDog
+[2020.03.31-22.54.20:985][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.03.31-22.54.20:986][575]Cmd: MAP LOAD FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.31-22.54.20:986][575]LightingResults: New page: Lighting Build
+[2020.03.31-22.54.20:987][575]LoadErrors: New page: Loading map: CityOfGuardDog.umap
+[2020.03.31-22.54.20:988][575]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-22.54.20:988][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-22.54.20:988][575]MapCheck: New page: Map Check
+[2020.03.31-22.54.20:988][575]LightingResults: New page: Lighting Build
+[2020.03.31-22.54.21:025][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.03.31-22.54.21:669][575]LogEditorServer: Finished looking for orphan Actors (0.002 secs)
+[2020.03.31-22.54.21:770][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.03.31-22.54.21:785][575]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.31-22.54.21:786][575]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.174ms to complete.
+[2020.03.31-22.54.21:786][575]LogFileHelpers: Loading map 'CityOfGuardDog' took 0.800
+[2020.03.31-22.54.56:062][413]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/LevelSequences/FSGuardDogSeesMookGettingRekt.FSGuardDogSeesMookGettingRekt
+[2020.03.31-22.55.16:171][563]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CityOfGuardDog.CityOfGuardDog:PersistentLevel.CityOfGuardDog
+[2020.03.31-22.55.16:378][563]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.03.31-22.55.17:155][563]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.31-22.55.17:186][564]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.31-22.55.52:776][326]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/LevelSequences/FSGuardDogLooksDownAtTabby.FSGuardDogLooksDownAtTabby
+[2020.03.31-22.56.13:589][536]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/LevelSequences/sequences/FSTabbySlammingMook.FSTabbySlammingMook
+[2020.03.31-22.57.18:570][985]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/LevelSequences/FSCloseUpOnGuardDogsFace.FSCloseUpOnGuardDogsFace
+[2020.03.31-22.57.24:697][329]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.03.31-22.57.26:757][329]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.31-22.57.27:408][329]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LevelSequences/FSCloseUpOnGuardDogsFace.FSCloseUpOnGuardDogsFace
+[2020.03.31-22.57.36:226][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.03.31-22.57.36:266][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.03.31-22.57.36:298][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.03.31-22.57.56:911][363]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/LevelSequences/FSGuardDogLookingOverCity.FSGuardDogLookingOverCity
+[2020.03.31-22.57.59:942][521]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/LevelSequences/FSGuardDogLooksDownAtTabby.FSGuardDogLooksDownAtTabby
+[2020.03.31-22.58.03:476][707]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/LevelSequences/FSGuardDogSeesMookGettingRekt.FSGuardDogSeesMookGettingRekt
+[2020.03.31-22.58.24:435][791]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_2)
+[2020.03.31-22.58.55:126][192]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Tabby-T-Pose)
+[2020.03.31-22.59.05:875][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital)
+[2020.03.31-22.59.07:055][721]Cmd: EDIT COPY
+[2020.03.31-22.59.07:476][739]Cmd: EDIT PASTE
+[2020.03.31-23.00.09:219][660]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.31-23.00.29:026][653]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_2)
+[2020.03.31-23.00.32:582][848]Cmd: TRANSACTION UNDO
+[2020.03.31-23.00.32:582][848]LogEditorTransaction: Undo Select Brush Surface
+[2020.03.31-23.00.33:316][871]Cmd: TRANSACTION UNDO
+[2020.03.31-23.00.33:316][871]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.31-23.00.38:276][138]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.31-23.00.53:950][917]Cmd: DELETE
+[2020.03.31-23.00.53:950][917]Cmd: ACTOR DELETE
+[2020.03.31-23.00.54:286][917]LogEditorActor: Deleted Actor: Brush
+[2020.03.31-23.00.54:336][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.03.31-23.00.54:465][917]LogEditorActor: Deleted 1 Actors (0.514 secs)
+[2020.03.31-23.02.41:148][ 27]Cmd: EDIT COPY
+[2020.03.31-23.02.41:436][ 43]Cmd: EDIT PASTE
+[2020.03.31-23.04.18:557][281]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.03.31-23.04.18:565][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CityOfGuardDog" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/CityOfGuardDog_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.31-23.05.35:394][281]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/CityOfGuardDog_Auto18BBCC0FE414613D954BEDFA73BC4C290.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/CityOfGuardDog_Auto1.umap'
+[2020.03.31-23.05.35:404][281]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CityOfGuardDog' took 76.930
+[2020.03.31-23.05.35:405][281]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 76.930
+[2020.03.31-23.05.35:405][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelSequences/FSGuardDogSeesMookGettingRekt] ([1] browsable assets)...
+[2020.03.31-23.05.35:405][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelSequences/FSGuardDogSeesMookGettingRekt]
+[2020.03.31-23.05.35:479][281]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSGuardDogSeesMookGettingRekt_AuCDA2FC2A441A2917CA171EA72E166B0E.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/LevelSequences/FSGuardDogSeesMookGettingRekt_Auto1.uasset'
+[2020.03.31-23.05.35:482][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelSequences/sequences/FSTabbySlammingMook] ([1] browsable assets)...
+[2020.03.31-23.05.35:482][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelSequences/sequences/FSTabbySlammingMook]
+[2020.03.31-23.05.35:546][281]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSTabbySlammingMook_Auto156010C844BD8F75B998A268B629777D4.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/LevelSequences/sequences/FSTabbySlammingMook_Auto1.uasset'
+[2020.03.31-23.05.35:548][281]LogFileHelpers: Auto-saving content packages took 0.143
+[2020.03.31-23.07.28:358][202]LogSlate: Window 'Message' being destroyed
+[2020.03.31-23.07.28:455][202]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSGuardDogNoticesAFIght3FAEC9A3422C7F7928B1CBB929A093F7.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/FSGuardDogNoticesAFIght.uasset'
+[2020.03.31-23.07.28:510][202]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/FSGuardDogThisCityWillBeFineB76AC23B4301FF3182DD6B9191DC62F5.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/FSGuardDogThisCityWillBeFine.uasset'
+[2020.03.31-23.07.28:520][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CityOfGuardDog" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.31-23.07.28:599][202]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.03.31-23.08.21:179][202]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/CityOfGuardDogA8058E894DF73FD0FD421A8861D9AE00.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap'
+[2020.03.31-23.08.21:208][202]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2020.03.31-23.08.21:256][202]LogFileHelpers: Saving map 'CityOfGuardDog' took 52.741
+[2020.03.31-23.08.21:325][202]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.31-23.08.21:325][202]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/FSGuardDogNoticesAFIght.FSGuardDogNoticesAFIght
+[2020.03.31-23.08.21:326][202]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/FSGuardDogThisCityWillBeFine.FSGuardDogThisCityWillBeFine
+[2020.03.31-23.08.21:326][202]LogContentValidation: Display: Validating World /Game/CityOfGuardDog.CityOfGuardDog
+[2020.03.31-23.09.10:016][154]Cmd: DELETE
+[2020.03.31-23.09.10:016][154]Cmd: ACTOR DELETE
+[2020.03.31-23.09.15:071][154]LogSlate: Window 'Message' being destroyed
+[2020.03.31-23.09.15:170][154]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.03.31-23.09.15:178][154]LogEditorActor: Deleted 0 Actors (0.433 secs)
+[2020.03.31-23.09.28:152][676]LogSlate: Window 'Message' being destroyed
+[2020.03.31-23.09.28:268][676]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GDStandingInDoorway5F11A5F84C37DA1D69E97A99AAD033E4.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/Hospital2_GDStandingInDoorway.uasset'
+[2020.03.31-23.09.28:334][676]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GuardDogLooksOutTheWinCC28DECD4FFBC4D02D3F5C92BE5573C4.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/Hospital2_GuardDogLooksOutTheWindow.uasset'
+[2020.03.31-23.09.28:429][676]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GuardDogTalksWhileLeav0194F91D4B7F17D0ADE05A844F4D7DB2.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/Hospital2_GuardDogTalksWhileLeaving.uasset'
+[2020.03.31-23.09.28:518][676]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_GuardDogTurnsAndTalksT4A42809647112226FCBADD934CB6D25B.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/Hospital2_GuardDogTurnsAndTalksToMayor.uasset'
+[2020.03.31-23.09.28:526][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CityOfGuardDog" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.31-23.09.28:576][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.03.31-23.10.22:878][676]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/CityOfGuardDog76E0D6C5439FD50BBACAB9A30FEA3056.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap'
+[2020.03.31-23.10.22:906][676]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2020.03.31-23.10.22:908][676]LogFileHelpers: Saving map 'CityOfGuardDog' took 54.386
+[2020.03.31-23.10.22:985][676]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.31-23.10.22:985][676]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/Hospital2_GDStandingInDoorway.Hospital2_GDStandingInDoorway
+[2020.03.31-23.10.22:985][676]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/Hospital2_GuardDogLooksOutTheWindow.Hospital2_GuardDogLooksOutTheWindow
+[2020.03.31-23.10.22:986][676]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/Hospital2_GuardDogTalksWhileLeaving.Hospital2_GuardDogTalksWhileLeaving
+[2020.03.31-23.10.22:986][676]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/Hospital2_GuardDogTurnsAndTalksToMayor.Hospital2_GuardDogTurnsAndTalksToMayor
+[2020.03.31-23.10.22:986][676]LogContentValidation: Display: Validating World /Game/CityOfGuardDog.CityOfGuardDog
+[2020.03.31-23.10.53:336][462]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Mayor_FIX_default1)
+[2020.03.31-23.10.53:676][473]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMeshComponent0)
+[2020.03.31-23.10.53:875][481]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMeshComponent0)
+[2020.03.31-23.11.11:012][233]LogSlate: Window 'Message' being destroyed
+[2020.03.31-23.11.11:135][233]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital2_MayorWakesUpB90AD2184923B1D7891332B6A2B0AB94.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/sequences/Hospital2_MayorWakesUp.uasset'
+[2020.03.31-23.11.11:143][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CityOfGuardDog" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.31-23.11.11:194][233]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.03.31-23.12.08:944][233]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/CityOfGuardDog483E1E4449C9630F7E7562B3D9C6D7E7.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap'
+[2020.03.31-23.12.08:974][233]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2020.03.31-23.12.08:977][233]LogFileHelpers: Saving map 'CityOfGuardDog' took 57.838
+[2020.03.31-23.12.09:019][233]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.31-23.12.09:019][233]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/sequences/Hospital2_MayorWakesUp.Hospital2_MayorWakesUp
+[2020.03.31-23.12.09:019][233]LogContentValidation: Display: Validating World /Game/CityOfGuardDog.CityOfGuardDog
+[2020.03.31-23.14.57:446][346]LogSlate: Window 'Save Asset As' being destroyed
+[2020.03.31-23.14.57:570][346]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Hospital1_GuardDogInBed.Hospital1_GuardDogInBed
+[2020.03.31-23.15.03:411][621]Cmd: TRANSACTION UNDO
+[2020.03.31-23.15.03:411][621]LogEditorTransaction: Undo Create Actor
+[2020.03.31-23.15.07:205][711]Cmd: TRANSACTION REDO
+[2020.03.31-23.15.07:205][711]LogEditorTransaction: Redo Create Actor
+[2020.03.31-23.15.12:663][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital2)
+[2020.03.31-23.15.48:264][511]Cmd: EDCALLBACK SURFPROPS
+[2020.03.31-23.15.49:840][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital2)
+[2020.03.31-23.15.53:118][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital2)
+[2020.03.31-23.16.26:670][478]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_2)
+[2020.03.31-23.16.27:293][494]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_2)
+[2020.03.31-23.16.35:774][941]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (GD_Hospital1)
+[2020.03.31-23.22.47:546][433]LogSlate: Window 'Save Asset As' being destroyed
+[2020.03.31-23.22.47:623][433]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Hospital1_NurseAndMayorWorry.Hospital1_NurseAndMayorWorry
+[2020.03.31-23.23.15:044][622]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
+[2020.03.31-23.23.15:053][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CityOfGuardDog" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/CityOfGuardDog_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.31-23.24.37:640][622]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/CityOfGuardDog_Auto2BED8D2634342F4F67FB452BE1B58B5B6.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/CityOfGuardDog_Auto2.umap'
+[2020.03.31-23.24.37:654][622]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CityOfGuardDog' took 82.688
+[2020.03.31-23.24.37:654][622]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 82.688
+[2020.03.31-23.24.37:655][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hospital1_GuardDogInBed] ([1] browsable assets)...
+[2020.03.31-23.24.37:655][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hospital1_GuardDogInBed]
+[2020.03.31-23.24.37:724][622]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital1_GuardDogInBed_Auto21157FB474880296942641598D504F1EF.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/Hospital1_GuardDogInBed_Auto2.uasset'
+[2020.03.31-23.24.37:735][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Hospital1_NurseAndMayorWorry] ([1] browsable assets)...
+[2020.03.31-23.24.37:735][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hospital1_NurseAndMayorWorry]
+[2020.03.31-23.24.37:754][622]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital1_NurseAndMayorWorry_AutE388C0C14E75CAE5379622A07D731CA6.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/Hospital1_NurseAndMayorWorry_Auto2.uasset'
+[2020.03.31-23.24.37:758][622]LogFileHelpers: Auto-saving content packages took 0.104
+[2020.03.31-23.26.29:342][132]Cmd: TRANSACTION UNDO
+[2020.03.31-23.26.29:342][132]LogEditorTransaction: Undo Scale Actors
+[2020.03.31-23.26.49:421][926]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.31-23.27.09:256][693]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.31-23.29.42:411][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hospital1_NurseAndMayorWorry" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_NurseAndMayorWorry.uasset" SILENT=true
+[2020.03.31-23.29.42:465][173]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital1_NurseAndMayorWorryD0237457408D38151B46A7B493E58590.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_NurseAndMayorWorry.uasset'
+[2020.03.31-23.29.42:492][173]AssetCheck: New page: Asset Save: Hospital1_NurseAndMayorWorry
+[2020.03.31-23.29.42:492][173]LogContentValidation: Display: Validating LevelSequence /Game/Hospital1_NurseAndMayorWorry.Hospital1_NurseAndMayorWorry
+[2020.03.31-23.30.22:162][529]LogSlate: Window 'Save Asset As' being destroyed
+[2020.03.31-23.30.22:237][529]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Hospital1_CloseUpOnDoctor.Hospital1_CloseUpOnDoctor
+[2020.03.31-23.32.00:439][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hospital1_CloseUpOnDoctor" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_CloseUpOnDoctor.uasset" SILENT=true
+[2020.03.31-23.32.00:500][961]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital1_CloseUpOnDoctorEC92F4AB47C04AEFF7A7458DF6D5BB1C.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_CloseUpOnDoctor.uasset'
+[2020.03.31-23.32.00:523][961]AssetCheck: New page: Asset Save: Hospital1_CloseUpOnDoctor
+[2020.03.31-23.32.00:523][961]LogContentValidation: Display: Validating LevelSequence /Game/Hospital1_CloseUpOnDoctor.Hospital1_CloseUpOnDoctor
+[2020.03.31-23.32.15:027][706]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital1_CloseUpOnDoctorDAB957114C3603DDB3A6BFA0AF028DFA.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/Hospital1_CloseUpOnDoctor.uasset'
+[2020.03.31-23.32.15:079][706]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital1_NurseAndMayorWorry2D06E9994245A33207D2CFBF59716ACC.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/Hospital1_NurseAndMayorWorry.uasset'
+[2020.03.31-23.32.15:084][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelSequences/Hospital1_GuardDogInBed" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/Hospital1_GuardDogInBed.uasset" SILENT=true
+[2020.03.31-23.32.15:129][706]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital1_GuardDogInBed4D787E324941FB7C54CA8EB9A233B8D2.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/LevelSequences/Hospital1_GuardDogInBed.uasset'
+[2020.03.31-23.32.17:071][706]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.03.31-23.32.17:124][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.31-23.32.17:173][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.03.31-23.32.17:235][706]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.03.31-23.32.17:287][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.31-23.32.18:069][706]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.31-23.32.18:069][706]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/Hospital1_CloseUpOnDoctor.Hospital1_CloseUpOnDoctor
+[2020.03.31-23.32.18:069][706]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/Hospital1_NurseAndMayorWorry.Hospital1_NurseAndMayorWorry
+[2020.03.31-23.32.18:069][706]LogContentValidation: Display: Validating LevelSequence /Game/LevelSequences/Hospital1_GuardDogInBed.Hospital1_GuardDogInBed
+[2020.03.31-23.32.45:821][814]LogSlate: Window 'Save Asset As' being destroyed
+[2020.03.31-23.32.45:896][814]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Hospital1_CloseUpOnMayor.Hospital1_CloseUpOnMayor
+[2020.03.31-23.33.22:318][639]Cmd: DELETE
+[2020.03.31-23.33.22:318][639]Cmd: ACTOR DELETE
+[2020.03.31-23.33.24:424][639]LogSlate: Window 'Message' being destroyed
+[2020.03.31-23.33.24:483][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.03.31-23.33.24:487][639]LogEditorActor: Deleted 0 Actors (0.342 secs)
+[2020.03.31-23.33.26:566][745]Cmd: DELETE
+[2020.03.31-23.33.26:566][745]Cmd: ACTOR DELETE
+[2020.03.31-23.33.28:075][745]LogSlate: Window 'Message' being destroyed
+[2020.03.31-23.33.28:115][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.03.31-23.33.28:117][745]LogEditorActor: Deleted 0 Actors (0.178 secs)
+[2020.03.31-23.34.03:706][259]LogSlate: Window 'Message' being destroyed
+[2020.03.31-23.34.03:748][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CityOfGuardDog" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.31-23.34.03:794][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.03.31-23.35.00:367][259]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/CityOfGuardDog25608CBF4353EE8CBA053AA1D1494952.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap'
+[2020.03.31-23.35.00:402][259]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2020.03.31-23.35.00:405][259]LogFileHelpers: Saving map 'CityOfGuardDog' took 56.663
+[2020.03.31-23.35.00:406][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hospital1_CloseUpOnMayor" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_CloseUpOnMayor.uasset" SILENT=true
+[2020.03.31-23.35.00:450][259]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital1_CloseUpOnMayorAFA98B6942983C15B0323E8E31260A72.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_CloseUpOnMayor.uasset'
+[2020.03.31-23.35.00:503][259]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.31-23.35.00:503][259]LogContentValidation: Display: Validating World /Game/CityOfGuardDog.CityOfGuardDog
+[2020.03.31-23.35.00:503][259]LogContentValidation: Display: Validating LevelSequence /Game/Hospital1_CloseUpOnMayor.Hospital1_CloseUpOnMayor
+[2020.03.31-23.39.13:697][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hospital1_CloseUpOnMayor" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_CloseUpOnMayor.uasset" SILENT=true
+[2020.03.31-23.39.13:805][618]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital1_CloseUpOnMayorE551CD434A163A8BBD1E738A5476A06E.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_CloseUpOnMayor.uasset'
+[2020.03.31-23.39.13:853][618]AssetCheck: New page: Asset Save: Hospital1_CloseUpOnMayor
+[2020.03.31-23.39.13:853][618]LogContentValidation: Display: Validating LevelSequence /Game/Hospital1_CloseUpOnMayor.Hospital1_CloseUpOnMayor
+[2020.03.31-23.40.03:089][ 23]LogSlate: Window 'Save Asset As' being destroyed
+[2020.03.31-23.40.03:206][ 23]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Hospital1_CloseUpOnGuardDogWakingUp.Hospital1_CloseUpOnGuardDogWakingUp
+[2020.03.31-23.40.17:728][586]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/LevelSequences/Hospital1_GuardDogInBed.Hospital1_GuardDogInBed
+[2020.03.31-23.40.25:129][881]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Hospital1_CloseUpOnGuardDogWakingUp.Hospital1_CloseUpOnGuardDogWakingUp
+[2020.03.31-23.40.58:744][343]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (GD_Hospital1)
+[2020.03.31-23.41.29:525][812]LogRenderer: Reallocating scene render targets to support 952x396 Format 10 NumSamples 1 (Frame:95358).
+[2020.03.31-23.41.29:665][813]LogRenderer: Reallocating scene render targets to support 956x396 Format 10 NumSamples 1 (Frame:95360).
+[2020.03.31-23.41.29:759][814]LogRenderer: Reallocating scene render targets to support 964x396 Format 10 NumSamples 1 (Frame:95362).
+[2020.03.31-23.41.29:904][815]LogRenderer: Reallocating scene render targets to support 968x396 Format 10 NumSamples 1 (Frame:95364).
+[2020.03.31-23.41.29:987][816]LogRenderer: Reallocating scene render targets to support 980x396 Format 10 NumSamples 1 (Frame:95366).
+[2020.03.31-23.42.19:704][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hospital1_CloseUpOnGuardDogWakingUp" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_CloseUpOnGuardDogWakingUp.uasset" SILENT=true
+[2020.03.31-23.42.19:775][216]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital1_CloseUpOnGuardDogWakin3A024D8D4337C0C0239636989592DFF0.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_CloseUpOnGuardDogWakingUp.uasset'
+[2020.03.31-23.42.19:820][216]AssetCheck: New page: Asset Save: Hospital1_CloseUpOnGuardDogWakingUp
+[2020.03.31-23.42.19:820][216]LogContentValidation: Display: Validating LevelSequence /Game/Hospital1_CloseUpOnGuardDogWakingUp.Hospital1_CloseUpOnGuardDogWakingUp
+[2020.03.31-23.42.36:763][507]LogSlate: Window 'Save Asset As' being destroyed
+[2020.03.31-23.42.36:845][507]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Hospital1_GuardDogSitsUp.Hospital1_GuardDogSitsUp
+[2020.03.31-23.42.55:669][442]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (GD_Hospital1)
+[2020.03.31-23.43.41:887][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital2)
+[2020.03.31-23.44.34:431][682]Cmd: TRANSACTION UNDO
+[2020.03.31-23.44.34:431][682]LogEditorTransaction: Undo Rotate Actors
+[2020.03.31-23.44.40:734][941]Cmd: TRANSACTION UNDO
+[2020.03.31-23.44.40:735][941]LogEditorTransaction: Undo Rotate Actors
+[2020.03.31-23.44.50:416][412]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (GD_Hospital1)
+[2020.03.31-23.44.50:466][412]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMeshComponent0)
+[2020.03.31-23.45.19:507][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital2)
+[2020.03.31-23.45.20:407][841]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (GD_Hospital1)
+[2020.03.31-23.45.26:483][164]Cmd: TRANSACTION UNDO
+[2020.03.31-23.45.26:483][164]LogEditorTransaction: Undo Move Actors
+[2020.03.31-23.45.27:726][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital2)
+[2020.03.31-23.45.28:670][220]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (GD_Hospital1)
+[2020.03.31-23.45.33:033][435]Cmd: TRANSACTION UNDO
+[2020.03.31-23.45.33:033][435]LogEditorTransaction: Undo Move Actors
+[2020.03.31-23.45.38:123][682]Cmd: TRANSACTION UNDO
+[2020.03.31-23.45.38:123][682]LogEditorTransaction: Undo Move Actors
+[2020.03.31-23.45.40:332][780]Cmd: TRANSACTION UNDO
+[2020.03.31-23.45.40:332][780]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.31-23.45.40:863][803]Cmd: TRANSACTION UNDO
+[2020.03.31-23.45.40:864][803]LogEditorTransaction: Undo Move Actors
+[2020.03.31-23.46.13:607][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hospital1_GuardDogSitsUp" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_GuardDogSitsUp.uasset" SILENT=true
+[2020.03.31-23.46.13:699][552]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Hospital1_GuardDogSitsUpA995D60E4B222948EF00AC8E5C0AEEC8.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/Hospital1_GuardDogSitsUp.uasset'
+[2020.03.31-23.46.13:749][552]AssetCheck: New page: Asset Save: Hospital1_GuardDogSitsUp
+[2020.03.31-23.46.13:749][552]LogContentValidation: Display: Validating LevelSequence /Game/Hospital1_GuardDogSitsUp.Hospital1_GuardDogSitsUp
+[2020.03.31-23.46.38:151][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.38:650][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.39:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.39:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.40:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.40:655][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.41:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.41:655][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.42:155][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.42:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.43:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.43:655][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.44:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.44:654][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.45:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.45:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.46:155][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.46:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.47:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.47:655][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.48:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.48:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.49:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.49:655][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.50:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.50:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.51:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.51:655][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.52:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.52:655][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.53:155][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.53:655][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.54:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.54:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.55:155][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.55:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.56:155][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.56:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.57:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.57:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.58:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.58:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.59:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.46.59:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.00:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.00:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.01:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.01:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.02:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.02:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.03:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.03:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.04:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.04:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.05:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.05:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.06:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.06:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.07:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.07:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.08:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.08:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.09:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.09:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.10:156][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.10:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.11:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.11:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.12:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.12:656][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.13:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.13:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.14:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.14:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.15:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.15:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.16:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.16:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.17:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.17:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.18:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.18:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.19:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.19:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.20:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.20:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.21:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.21:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.22:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.22:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.23:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.23:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.24:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.24:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.25:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.25:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.26:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.26:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.27:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.27:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.28:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.28:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.29:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.29:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.30:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.30:657][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.31:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.31:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.32:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.32:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.33:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.33:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.34:157][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.34:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.35:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.35:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.36:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.36:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.37:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.37:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.38:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.38:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.39:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.39:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.40:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.40:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.41:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.41:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.42:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.42:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.43:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.43:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.44:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.44:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.45:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.45:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.46:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.46:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.47:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.47:658][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.48:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.48:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.49:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.49:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.50:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.50:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.51:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.51:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.52:158][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.52:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.53:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.53:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.54:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.54:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.55:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.55:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.56:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.56:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.57:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.57:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.58:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.58:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.59:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.47.59:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.00:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.00:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.01:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.01:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.02:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.02:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.03:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.03:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.04:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.04:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.05:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.05:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.06:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.06:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.07:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.07:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.08:159][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.08:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.09:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.09:659][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.10:161][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.10:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.11:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.11:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.12:161][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.12:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.13:161][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.13:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.14:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.14:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.15:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.15:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.16:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.16:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.17:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.17:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.18:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.18:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.19:161][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.19:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.20:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.20:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.21:161][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.21:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.22:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.22:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.23:162][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.23:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.24:162][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.24:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.25:161][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.25:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.26:161][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.26:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.27:162][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.27:662][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.28:161][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.28:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.29:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.29:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.30:161][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.30:660][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.31:160][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.31:662][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.32:161][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.32:662][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.33:162][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.33:662][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.34:162][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.34:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.35:162][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.35:661][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.36:162][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.36:662][955]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.03.31-23.48.36:796][955]LogRHI: Error: SyncInterval 0
+[2020.03.31-23.48.36:796][955]LogRHI: Error: SwapChainDesc.BufferDesc.Width 3872
+[2020.03.31-23.48.36:796][955]LogRHI: Error: SwapChainDesc.BufferDesc.Height 2092
+[2020.03.31-23.48.36:796][955]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.03.31-23.48.36:796][955]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.03.31-23.48.36:796][955]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.03.31-23.48.36:797][955]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.03.31-23.48.36:797][955]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.03.31-23.48.36:797][955]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.03.31-23.48.36:797][955]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.03.31-23.48.36:797][955]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.03.31-23.48.36:797][955]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.03.31-23.48.36:797][955]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000070EFE
+[2020.03.31-23.48.36:797][955]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.03.31-23.48.36:797][955]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.03.31-23.48.36:797][955]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.03.31-23.48.36:797][955]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:389 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2020.03.31-23.48.36:798][955]LogD3D11RHI: [Aftermath] GDynamicRHI=00000156C99280C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.03.31-23.48.36:799][955]LogWindows: Windows GetLastError: The operation completed successfully. (0)

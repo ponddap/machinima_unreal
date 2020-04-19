@@ -1,0 +1,1562 @@
+﻿Log file open, 03/24/20 12:48:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: machinimaProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.099560
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=juuciii -epicuserid=55689d880617455785f7fb8024775b47 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.24-17.48.47:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.24-17.48.47:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.24-17.48.47:051][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.24-17.48.47:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.24-17.48.47:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.24-17.48.47:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.24-17.48.47:056][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.24-17.48.47:056][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.24-17.48.47:059][  0]LogHAL: Display: Platform has ~ 16 GB [17052733440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.24-17.48.47:059][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.24-17.48.47:059][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.24-17.48.47:059][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.24-17.48.47:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.24-17.48.47:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.24-17.48.47:062][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:062][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.24-17.48.47:062][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.24-17.48.47:062][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.24-17.48.47:062][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.24-17.48.47:062][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.24-17.48.47:062][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.24-17.48.47:062][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.24-17.48.47:062][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.24-17.48.47:062][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.24-17.48.47:062][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/orinp/Desktop/machinimaProject/Saved/Config/Windows/Engine.ini]
+[2020.03.24-17.48.47:062][  0]LogInit: Computer: DESKTOP-EGHS57I
+[2020.03.24-17.48.47:062][  0]LogInit: User: orinp
+[2020.03.24-17.48.47:062][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.24-17.48.47:062][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.24-17.48.47:062][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.24-17.48.47:062][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.24-17.48.47:062][  0]LogMemory: Process Physical Memory: 104.65 MB used, 104.66 MB peak
+[2020.03.24-17.48.47:062][  0]LogMemory: Process Virtual Memory: 100.51 MB used, 100.51 MB peak
+[2020.03.24-17.48.47:062][  0]LogMemory: Physical Memory: 7093.52 MB used,  9169.23 MB free, 16262.75 MB total
+[2020.03.24-17.48.47:062][  0]LogMemory: Virtual Memory: 5103.17 MB used,  134212624.00 MB free, 134217728.00 MB total
+[2020.03.24-17.48.47:067][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.24-17.48.47:095][  0]LogInit: Using OS detected language (en-US).
+[2020.03.24-17.48.47:095][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.24-17.48.47:097][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.24-17.48.47:273][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.24-17.48.47:313][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.24-17.48.47:313][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.24-17.48.47:606][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.24-17.48.47:606][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.24-17.48.47:606][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.24-17.48.47:606][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.24-17.48.47:685][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2020.03.24-17.48.47:685][  0]LogD3D11RHI:       1983/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.24-17.48.47:698][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.03.24-17.48.47:698][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.24-17.48.47:701][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.24-17.48.47:701][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.24-17.48.47:701][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.24-17.48.47:756][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.24-17.48.47:756][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.24-17.48.47:756][  0]LogWindows: EnumDisplayDevices:
+[2020.03.24-17.48.47:757][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.03.24-17.48.47:757][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.03.24-17.48.47:758][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.03.24-17.48.47:758][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.24-17.48.47:758][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2020.03.24-17.48.47:758][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.24-17.48.47:758][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.24-17.48.47:758][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2020.03.24-17.48.47:800][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.24-17.48.47:801][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.24-17.48.47:819][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.03.24-17.48.48:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.24-17.48.48:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.24-17.48.48:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.24-17.48.48:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.24-17.48.48:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.24-17.48.48:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.24-17.48.48:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.24-17.48.48:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.24-17.48.48:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.24-17.48.48:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.24-17.48.48:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.24-17.48.48:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.24-17.48.48:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.24-17.48.48:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.24-17.48.48:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.24-17.48.48:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.24-17.48.48:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.24-17.48.48:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.24-17.48.48:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.24-17.48.48:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.24-17.48.48:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.24-17.48.48:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.24-17.48.48:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.24-17.48.48:398][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.24-17.48.48:403][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.24-17.48.48:443][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/orinp/Desktop/machinimaProject/Intermediate/Shaders/WorkingDirectory/18748/).
+[2020.03.24-17.48.48:444][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/orinp/AppData/Local/Temp/UnrealShaderWorkingDir/C3CC046A413BA524EDB8C49DA3908F78/'.
+[2020.03.24-17.48.48:445][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.24-17.48.48:445][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.24-17.48.48:445][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.24-17.48.49:245][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.24-17.48.49:294][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/orinp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.24-17.48.49:294][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/orinp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.24-17.48.49:294][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/orinp/Desktop/machinimaProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.24-17.48.49:294][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.24-17.48.49:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/orinp/Desktop/machinimaProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.24-17.48.49:295][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.24-17.48.49:305][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.24-17.48.49:305][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.24-17.48.49:305][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.24-17.48.49:306][  0]LogDerivedDataCache: Using Local data cache path C:/Users/orinp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.24-17.48.49:306][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.24-17.48.49:306][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.24-17.48.49:330][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.24-17.48.49:332][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.24-17.48.49:333][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.24-17.48.49:401][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.03.24-17.48.49:703][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.24-17.48.49:867][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.24-17.48.49:868][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.24-17.48.49:868][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.24-17.48.49:868][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.24-17.48.49:868][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.24-17.48.49:881][  0]LogNetVersion: machinimaProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3622812282)
+[2020.03.24-17.48.51:019][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036893 seconds
+[2020.03.24-17.48.51:025][  0]LogUObjectArray: 46746 objects as part of root set at end of initial load.
+[2020.03.24-17.48.51:026][  0]LogUObjectAllocator: 8135816 out of 0 bytes used by permanent object pool.
+[2020.03.24-17.48.51:026][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.24-17.48.51:431][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.24-17.48.51:435][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.24-17.48.51:484][  0]SourceControl: Source control is disabled
+[2020.03.24-17.48.51:484][  0]SourceControl: Source control is disabled
+[2020.03.24-17.48.51:485][  0]SourceControl: Source control is disabled
+[2020.03.24-17.48.51:486][  0]SourceControl: Source control is disabled
+[2020.03.24-17.48.51:487][  0]SourceControl: Source control is disabled
+[2020.03.24-17.48.51:585][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.24-17.48.51:595][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.24-17.48.51:595][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.24-17.48.51:678][  0]LogOcInput: OculusInput pre-init called
+[2020.03.24-17.48.51:688][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.24-17.48.51:688][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.24-17.48.51:756][  0]LogEngine: Initializing Engine...
+[2020.03.24-17.48.51:758][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.24-17.48.51:758][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.24-17.48.52:093][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.24-17.48.52:099][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.24-17.48.52:105][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.24-17.48.52:105][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.24-17.48.52:105][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.24-17.48.52:105][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.24-17.48.52:105][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.24-17.48.52:105][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.24-17.48.52:105][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.24-17.48.52:105][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.24-17.48.52:105][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.24-17.48.52:105][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.24-17.48.52:149][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.24-17.48.52:149][  0]LogAudioMixer: Display: Name: Speakers (5- Logitech G430 Gaming Headset)
+[2020.03.24-17.48.52:149][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.24-17.48.52:149][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.24-17.48.52:149][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.24-17.48.52:149][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.24-17.48.52:149][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.24-17.48.52:149][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.24-17.48.52:149][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.24-17.48.52:184][  0]LogAudioMixer: Display: Using Audio Device Speakers (5- Logitech G430 Gaming Headset)
+[2020.03.24-17.48.52:188][  0]LogInit: FAudioDevice initialized.
+[2020.03.24-17.48.52:188][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.24-17.48.52:268][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/orinp/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.24-17.48.52:269][  0]LogInit: Texture streaming: Enabled
+[2020.03.24-17.48.52:284][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.24-17.48.52:284][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.24-17.48.52:297][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.24-17.48.52:335][  0]LogInit: Transaction tracking system initialized
+[2020.03.24-17.48.52:347][  0]BlueprintLog: New page: Editor Load
+[2020.03.24-17.48.52:379][  0]LocalizationService: Localization service is disabled
+[2020.03.24-17.48.52:680][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.24-17.48.52:680][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.24-17.48.52:774][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/' took 0.03s
+[2020.03.24-17.48.53:615][  0]SourceControl: Source control is disabled
+[2020.03.24-17.48.53:615][  0]Cmd: MAP LOAD FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.24-17.48.53:616][  0]LightingResults: New page: Lighting Build
+[2020.03.24-17.48.53:617][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-17.48.53:617][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-17.48.53:617][  0]MapCheck: New page: Map Check
+[2020.03.24-17.48.53:617][  0]LightingResults: New page: Lighting Build
+[2020.03.24-17.48.53:643][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.03.24-17.48.53:994][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.24-17.48.54:006][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.24-17.48.54:044][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.03.24-17.48.54:044][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.24-17.48.54:044][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.214ms to complete.
+[2020.03.24-17.48.54:044][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.429
+[2020.03.24-17.48.54:248][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-17.48.54:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-17.48.54:266][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-17.48.54:274][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.24-17.48.54:295][  0]LogCollectionManager: Loaded 0 collections in 0.003809 seconds
+[2020.03.24-17.48.54:320][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Saved/Collections/' took 0.00s
+[2020.03.24-17.48.54:320][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/Developers/orinp/Collections/' took 0.00s
+[2020.03.24-17.48.54:320][  0]LogFileCache: Scanning file cache for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/Collections/' took 0.00s
+[2020.03.24-17.48.54:320][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 3015 classes and 717 folders.
+[2020.03.24-17.48.54:325][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.24-17.48.54:574][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.24-17.48.54:606][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.03.24-17.48.54:713][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.24-17.48.54:716][  0]LogSlate: Took 0.000462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.24-17.48.54:724][  0]LogSlate: Took 0.000712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.24-17.48.54:810][  0]LogRenderer: Reallocating scene render targets to support 1100x468 Format 10 NumSamples 1 (Frame:1).
+[2020.03.24-17.48.54:996][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.24-17.48.54:996][  0]LogLoad: (Engine Initialization) Total time: 11.11 seconds
+[2020.03.24-17.48.54:996][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.24-17.48.55:070][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.24-17.48.55:112][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/orinp/Desktop/machinimaProject/Content/' took 0.09s
+[2020.03.24-17.48.55:177][  2]LogAssetRegistry: Asset discovery search completed in 5.7772 seconds
+[2020.03.24-17.48.55:183][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2020.03.24-17.50.33:635][531]LogSlate: Took 0.000693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.24-17.50.37:048][727]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.24-17.50.37:291][727]LogLinker: Warning: While loading '../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap' failed to load '/Game/Extra_Assets/3660_hospital_unreal_traklite': Can't find file.
+[2020.03.24-17.50.37:292][727]LogLinker: Warning: While loading '../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap' failed to load '/Game/Extra_Assets/3660_hospital_unreal_traklite': Can't find file.
+[2020.03.24-17.50.37:561][727]LogLinker: Warning: While loading '../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap' failed to load '/Game/Extra_Assets/3660_hospital_unreal_traklite': Can't find file.
+[2020.03.24-17.50.37:561][727]LogLinker: Warning: While loading '../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap' failed to load '/Game/Extra_Assets/3660_hospital_unreal_traklite': Can't find file.
+[2020.03.24-17.50.37:579][727]LogLinker: Warning: Failed to load '/Game/Extra_Assets/3660_hospital_unreal_traklite': Can't find file.
+[2020.03.24-17.50.37:580][727]LogLinker: Warning: Failed to load '/Game/Extra_Assets/3660_hospital_unreal_traklite': Can't find file.
+[2020.03.24-17.50.37:580][727]LogLinker: Warning: Failed to load '/Game/Extra_Assets/3660_hospital_unreal_traklite': Can't find file.
+[2020.03.24-17.50.37:580][727]LogLinker: Warning: Failed to load '/Game/Extra_Assets/3660_hospital_unreal_traklite': Can't find file.
+[2020.03.24-17.50.38:018][727]LogLinker: Warning: While loading '../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap' failed to load '/Game/Extra_Assets/3660_hospital_unreal_traklite': Can't find file.
+[2020.03.24-17.50.38:018][727]LoadErrors: Failed to load /Game/Extra_Assets/3660_hospital_unreal_traklite.3660_hospital_unreal_traklite Referenced by 3660_hospital_unreal_traklite_11
+[2020.03.24-17.50.38:018][727]LogLinker: Warning: While loading '../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap' failed to load '/Game/Extra_Assets/3660_hospital_unreal_traklite': Can't find file.
+[2020.03.24-17.50.39:878][727]LogAIModule: Creating AISystem for world CityOfGuardDog
+[2020.03.24-17.50.40:365][727]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CityOfGuardDog.CityOfGuardDog
+[2020.03.24-17.50.40:453][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.03.24-17.50.40:456][727]Cmd: MAP LOAD FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/CityOfGuardDog.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.24-17.50.40:457][727]LightingResults: New page: Lighting Build
+[2020.03.24-17.50.40:457][727]LoadErrors: New page: Loading map: CityOfGuardDog.umap
+[2020.03.24-17.50.40:458][727]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-17.50.40:458][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-17.50.40:459][727]MapCheck: New page: Map Check
+[2020.03.24-17.50.40:459][727]LightingResults: New page: Lighting Build
+[2020.03.24-17.50.40:489][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.03.24-17.50.41:170][727]LogEditorServer: Finished looking for orphan Actors (0.002 secs)
+[2020.03.24-17.50.41:266][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.03.24-17.50.41:281][727]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.24-17.50.41:282][727]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.374ms to complete.
+[2020.03.24-17.50.41:282][727]LogFileHelpers: Loading map 'CityOfGuardDog' took 0.828
+[2020.03.24-18.01.03:568][374]LogAssetTools: Warning: Failed to import 'C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD.mtl'. Unknown extension 'mtl'.
+[2020.03.24-18.01.03:586][374]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD.obj)
+[2020.03.24-18.01.03:690][374]LogFbx: Loading FBX Scene from C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD.obj
+[2020.03.24-18.01.04:371][374]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.24-18.01.06:047][374]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.24-18.01.06:441][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Packed1_Diffuse': Can't find file.
+[2020.03.24-18.01.06:442][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Packed1_Diffuse': Can't find file.
+[2020.03.24-18.01.06:588][374]LogTexture: Display: Building textures: GD_Packed1_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.01.08:300][374]LogMaterial: Display: Missing cached shader map for material PackedMaterial2, compiling. 
+[2020.03.24-18.01.08:421][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.03.24-18.01.08:421][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.03.24-18.01.08:421][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.24-18.01.08:421][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.24-18.01.08:421][374]LogFbx: Display: Triangulating static mesh GD2:Beards
+[2020.03.24-18.01.09:306][374]LogStaticMesh: Building static mesh GD_Beards...
+[2020.03.24-18.01.09:419][374]LogStaticMesh: Built static mesh [0.11s] /Game/GUARD_DOG/GD_UNREAL/GD_Beards.GD_Beards
+[2020.03.24-18.01.09:459][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Packed0_Diffuse': Can't find file.
+[2020.03.24-18.01.09:460][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Packed0_Diffuse': Can't find file.
+[2020.03.24-18.01.09:728][374]LogTexture: Display: Building textures: GD_Packed0_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.01.11:693][374]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2020.03.24-18.01.11:906][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.03.24-18.01.11:906][374]LogFbx: Display: Triangulating static mesh GD2:Body
+[2020.03.24-18.01.14:028][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.24-18.01.14:028][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.24-18.01.14:028][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.03.24-18.01.14:028][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.24-18.01.14:051][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.24-18.01.14:056][374]LogStaticMesh: Building static mesh GD_Body...
+[2020.03.24-18.01.14:552][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.03.24-18.01.14:552][374]LogStaticMesh: Built static mesh [0.50s] /Game/GUARD_DOG/GD_UNREAL/GD_Body.GD_Body
+[2020.03.24-18.01.14:731][374]LogFbx: Display: Triangulating static mesh GD2:Bottoms
+[2020.03.24-18.01.14:965][374]LogStaticMesh: Building static mesh GD_Bottoms...
+[2020.03.24-18.01.15:019][374]LogStaticMesh: Built static mesh [0.06s] /Game/GUARD_DOG/GD_UNREAL/GD_Bottoms.GD_Bottoms
+[2020.03.24-18.01.15:051][374]LogFbx: Display: Triangulating static mesh GD2:default1
+[2020.03.24-18.01.15:059][374]LogStaticMesh: Building static mesh GD_default1...
+[2020.03.24-18.01.15:066][374]LogStaticMesh: Built static mesh [0.01s] /Game/GUARD_DOG/GD_UNREAL/GD_default1.GD_default1
+[2020.03.24-18.01.15:074][374]LogFbx: Display: Triangulating static mesh GD2:Eyes
+[2020.03.24-18.01.15:149][374]LogStaticMesh: Building static mesh GD_Eyes...
+[2020.03.24-18.01.15:168][374]LogStaticMesh: Built static mesh [0.02s] /Game/GUARD_DOG/GD_UNREAL/GD_Eyes.GD_Eyes
+[2020.03.24-18.01.15:189][374]LogFbx: Display: Triangulating static mesh GD2:Gloves
+[2020.03.24-18.01.15:297][374]LogStaticMesh: Building static mesh GD_Gloves...
+[2020.03.24-18.01.15:326][374]LogStaticMesh: Built static mesh [0.03s] /Game/GUARD_DOG/GD_UNREAL/GD_Gloves.GD_Gloves
+[2020.03.24-18.01.15:346][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Packed2_Diffuse': Can't find file.
+[2020.03.24-18.01.15:347][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Packed2_Diffuse': Can't find file.
+[2020.03.24-18.01.15:409][374]LogTexture: Display: Building textures: GD_Packed2_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.01.16:237][374]LogMaterial: Display: Missing cached shader map for material PackedMaterial4, compiling. 
+[2020.03.24-18.01.16:382][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.03.24-18.01.16:382][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.03.24-18.01.16:382][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.24-18.01.16:382][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.24-18.01.16:382][374]LogFbx: Display: Triangulating static mesh GD2:Hair
+[2020.03.24-18.01.17:379][374]LogStaticMesh: Building static mesh GD_Hair...
+[2020.03.24-18.01.17:577][374]LogStaticMesh: Built static mesh [0.20s] /Game/GUARD_DOG/GD_UNREAL/GD_Hair.GD_Hair
+[2020.03.24-18.01.17:634][374]LogFbx: Display: Triangulating static mesh GD2:Shoes
+[2020.03.24-18.01.18:280][374]LogStaticMesh: Building static mesh GD_Shoes...
+[2020.03.24-18.01.18:432][374]LogStaticMesh: Built static mesh [0.15s] /Game/GUARD_DOG/GD_UNREAL/GD_Shoes.GD_Shoes
+[2020.03.24-18.01.18:516][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Shirt': Can't find file.
+[2020.03.24-18.01.18:517][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Shirt': Can't find file.
+[2020.03.24-18.01.18:589][374]LogTexture: Display: Building textures: GD_Shirt (AutoDXT, 2048X2048)
+[2020.03.24-18.01.21:184][374]LogMaterial: Display: Missing cached shader map for material defaultMat, compiling. 
+[2020.03.24-18.01.21:309][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.03.24-18.01.21:309][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.03.24-18.01.21:309][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.24-18.01.21:310][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.24-18.01.21:310][374]LogFbx: Display: Triangulating static mesh GD_Shirt:Group3156
+[2020.03.24-18.01.22:378][374]LogStaticMesh: Building static mesh GD_Group3156...
+[2020.03.24-18.01.22:957][374]LogStaticMesh: Built static mesh [0.58s] /Game/GUARD_DOG/GD_UNREAL/GD_Group3156.GD_Group3156
+[2020.03.24-18.01.23:362][374]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.24-18.01.23:552][374]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_Custom_Shirt.bmp)
+[2020.03.24-18.01.23:624][374]LogTexture: Display: Building textures: GD_Custom_Shirt (AutoDXT, 2048X2048)
+[2020.03.24-18.01.26:060][374]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_Fix.fbx)
+[2020.03.24-18.01.26:091][374]LogFbx: Loading FBX Scene from C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_Fix.fbx
+[2020.03.24-18.01.26:201][374]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.24-18.01.31:680][374]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.24-18.01.31:721][374]LogFbx: Valid bind pose for Pose (skinCluster1) - GD2:Shoes
+[2020.03.24-18.01.31:721][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Shoes : The relative matrices do not match
+[2020.03.24-18.01.31:721][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD_Shirt:Group3156 : The relative matrices do not match
+[2020.03.24-18.01.31:721][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Gloves : The relative matrices do not match
+[2020.03.24-18.01.31:721][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Beards : The relative matrices do not match
+[2020.03.24-18.01.31:721][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Body : The relative matrices do not match
+[2020.03.24-18.01.31:721][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:default1 : The relative matrices do not match
+[2020.03.24-18.01.31:721][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Eyes : The relative matrices do not match
+[2020.03.24-18.01.31:721][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Bottoms : The relative matrices do not match
+[2020.03.24-18.01.31:721][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Hair : The relative matrices do not match
+[2020.03.24-18.01.31:722][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Shoes : The relative matrices do not match
+[2020.03.24-18.01.31:722][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD_Shirt:Group3156 : The relative matrices do not match
+[2020.03.24-18.01.31:722][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Gloves : The relative matrices do not match
+[2020.03.24-18.01.31:723][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Beards : The relative matrices do not match
+[2020.03.24-18.01.31:723][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Body : The relative matrices do not match
+[2020.03.24-18.01.31:723][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:default1 : The relative matrices do not match
+[2020.03.24-18.01.31:724][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Eyes : The relative matrices do not match
+[2020.03.24-18.01.31:724][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Bottoms : The relative matrices do not match
+[2020.03.24-18.01.31:724][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Hair : The relative matrices do not match
+[2020.03.24-18.01.31:724][374]LogFbx: Valid bind pose for Pose (skinCluster4) - GD2:Shoes
+[2020.03.24-18.01.31:725][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Shoes : The relative matrices do not match
+[2020.03.24-18.01.31:725][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD_Shirt:Group3156 : The relative matrices do not match
+[2020.03.24-18.01.31:725][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Gloves : The relative matrices do not match
+[2020.03.24-18.01.31:726][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Beards : The relative matrices do not match
+[2020.03.24-18.01.31:726][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Body : The relative matrices do not match
+[2020.03.24-18.01.31:726][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:default1 : The relative matrices do not match
+[2020.03.24-18.01.31:727][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Eyes : The relative matrices do not match
+[2020.03.24-18.01.31:728][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Bottoms : The relative matrices do not match
+[2020.03.24-18.01.31:728][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Hair : The relative matrices do not match
+[2020.03.24-18.01.31:728][374]LogFbx: Valid bind pose for Pose (skinCluster6) - GD2:Shoes
+[2020.03.24-18.01.31:728][374]LogFbx: Valid bind pose for Pose (skinCluster7) - GD2:Shoes
+[2020.03.24-18.01.31:728][374]LogFbx: Valid bind pose for Pose (skinCluster8) - GD2:Shoes
+[2020.03.24-18.01.31:728][374]LogFbx: Valid bind pose for Pose (skinCluster9) - GD2:Shoes
+[2020.03.24-18.01.31:733][374]LogMaterial: Display: Material /Game/GUARD_DOG/GD_UNREAL/lambert4.lambert4 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.24-18.01.31:738][374]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.01.31:782][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.03.24-18.01.31:782][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.03.24-18.01.31:782][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.03.24-18.01.31:782][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.03.24-18.01.32:011][374]LogTexture: Display: Building textures: GD_Packed1_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.01.34:326][374]LogTexture: Display: Building textures: GD_Packed1_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.01.36:812][374]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.01.37:127][374]LogFbx: Triangulating skeletal mesh GD2:Shoes
+[2020.03.24-18.01.37:687][374]LogMaterial: Display: Material /Game/GUARD_DOG/GD_UNREAL/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.24-18.01.38:007][374]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.03.24-18.01.38:137][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 126
+[2020.03.24-18.01.38:137][374]LogTexture: Display: Building textures: GD_Shirt (AutoDXT, 2048X2048)
+[2020.03.24-18.01.40:608][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 116
+[2020.03.24-18.01.40:609][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 106
+[2020.03.24-18.01.40:690][374]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.03.24-18.01.40:882][374]LogFbx: Triangulating skeletal mesh GD_Shirt:Group3156
+[2020.03.24-18.01.41:844][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2020.03.24-18.01.41:844][374]LogFbx: Triangulating skeletal mesh GD2:Gloves
+[2020.03.24-18.01.42:022][374]LogMaterial: Display: Material /Game/GUARD_DOG/GD_UNREAL/lambert6.lambert6 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.24-18.01.42:046][374]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2020.03.24-18.01.42:372][374]LogTexture: Display: Building textures: GD_Packed1_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.01.45:094][374]LogTexture: Display: Building textures: GD_Packed1_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.01.47:521][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 125
+[2020.03.24-18.01.47:559][374]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2020.03.24-18.01.47:812][374]LogFbx: Triangulating skeletal mesh GD2:Beards
+[2020.03.24-18.01.48:093][374]LogMaterial: Display: Material /Game/GUARD_DOG/GD_UNREAL/lambert3.lambert3 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.24-18.01.48:693][374]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.03.24-18.01.49:053][374]LogTexture: Display: Building textures: GD_Packed0_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.01.51:055][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 202
+[2020.03.24-18.01.51:091][374]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.03.24-18.01.51:264][374]LogFbx: Triangulating skeletal mesh GD2:Body
+[2020.03.24-18.01.53:213][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 192
+[2020.03.24-18.01.53:213][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 182
+[2020.03.24-18.01.53:213][374]LogMaterial: Display: Material /Game/GUARD_DOG/GD_UNREAL/lambert7.lambert7 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.24-18.01.53:238][374]LogMaterial: Display: Missing cached shader map for material lambert7, compiling. 
+[2020.03.24-18.01.53:606][374]LogTexture: Display: Building textures: GD_Packed0_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.01.55:534][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 211
+[2020.03.24-18.01.55:578][374]LogMaterial: Display: Missing cached shader map for material lambert7, compiling. 
+[2020.03.24-18.01.55:732][374]LogFbx: Triangulating skeletal mesh GD2:default1
+[2020.03.24-18.01.55:743][374]LogFbx: Triangulating skeletal mesh GD2:Eyes
+[2020.03.24-18.01.55:875][374]LogFbx: Triangulating skeletal mesh GD2:Bottoms
+[2020.03.24-18.01.56:249][374]LogMaterial: Display: Material /Game/GUARD_DOG/GD_UNREAL/lambert5.lambert5 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.24-18.01.56:629][374]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.03.24-18.01.56:817][374]LogTexture: Display: Building textures: GD_Packed2_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.01.57:840][374]LogTexture: Display: Building textures: GD_Packed2_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.01.58:742][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 240
+[2020.03.24-18.01.58:768][374]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.03.24-18.01.58:989][374]LogFbx: Triangulating skeletal mesh GD2:Hair
+[2020.03.24-18.01.59:504][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 278
+[2020.03.24-18.01.59:504][374]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2020.03.24-18.02.02:207][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 268
+[2020.03.24-18.02.02:207][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 258
+[2020.03.24-18.02.02:583][374]LogSkeletalMesh: Section 0: 8038 vertices, 39 active bones
+[2020.03.24-18.02.02:585][374]LogSkeletalMesh: Section 1: 9586 vertices, 12 active bones
+[2020.03.24-18.02.02:585][374]LogSkeletalMesh: Section 2: 3043 vertices, 3 active bones
+[2020.03.24-18.02.02:588][374]LogSkeletalMesh: Section 3: 12931 vertices, 52 active bones
+[2020.03.24-18.02.02:588][374]LogSkeletalMesh: Section 4: 106 vertices, 1 active bones
+[2020.03.24-18.02.02:588][374]LogSkeletalMesh: Section 5: 3989 vertices, 2 active bones
+[2020.03.24-18.02.02:599][374]LogSkeletalMesh: Section 0: Material=0, 13414 triangles
+[2020.03.24-18.02.02:599][374]LogSkeletalMesh: Section 1: Material=1, 10108 triangles
+[2020.03.24-18.02.02:599][374]LogSkeletalMesh: Section 2: Material=2, 2784 triangles
+[2020.03.24-18.02.02:599][374]LogSkeletalMesh: Section 3: Material=3, 23223 triangles
+[2020.03.24-18.02.02:599][374]LogSkeletalMesh: Section 4: Material=4, 114 triangles
+[2020.03.24-18.02.02:599][374]LogSkeletalMesh: Section 5: Material=5, 4420 triangles
+[2020.03.24-18.02.02:617][374]LogSkeletalMesh: Building Skeletal Mesh GD_Fix...
+[2020.03.24-18.02.04:782][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 248
+[2020.03.24-18.02.04:783][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 238
+[2020.03.24-18.02.04:783][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 228
+[2020.03.24-18.02.05:199][374]LogSkeletalMesh: Section 0: 8038 vertices, 39 active bones
+[2020.03.24-18.02.05:201][374]LogSkeletalMesh: Section 1: 9586 vertices, 12 active bones
+[2020.03.24-18.02.05:201][374]LogSkeletalMesh: Section 2: 3043 vertices, 3 active bones
+[2020.03.24-18.02.05:205][374]LogSkeletalMesh: Section 3: 12931 vertices, 52 active bones
+[2020.03.24-18.02.05:205][374]LogSkeletalMesh: Section 4: 106 vertices, 1 active bones
+[2020.03.24-18.02.05:205][374]LogSkeletalMesh: Section 5: 3989 vertices, 2 active bones
+[2020.03.24-18.02.05:215][374]LogSkeletalMesh: Section 0: Material=0, 13414 triangles
+[2020.03.24-18.02.05:215][374]LogSkeletalMesh: Section 1: Material=1, 10108 triangles
+[2020.03.24-18.02.05:215][374]LogSkeletalMesh: Section 2: Material=2, 2784 triangles
+[2020.03.24-18.02.05:215][374]LogSkeletalMesh: Section 3: Material=3, 23223 triangles
+[2020.03.24-18.02.05:215][374]LogSkeletalMesh: Section 4: Material=4, 114 triangles
+[2020.03.24-18.02.05:215][374]LogSkeletalMesh: Section 5: Material=5, 4420 triangles
+[2020.03.24-18.02.05:496][374]LogSkeletalMesh: Built Skeletal Mesh [2.88s] /Game/GUARD_DOG/GD_UNREAL/GD_Fix.GD_Fix
+[2020.03.24-18.02.05:530][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 218
+[2020.03.24-18.02.05:537][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Fix_Skeleton': Can't find file.
+[2020.03.24-18.02.05:538][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Fix_Skeleton': Can't find file.
+[2020.03.24-18.02.05:540][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Fix_PhysicsAsset': Can't find file.
+[2020.03.24-18.02.05:541][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_Fix_PhysicsAsset': Can't find file.
+[2020.03.24-18.02.05:692][374]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-18.02.05:693][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-18.02.05:837][374]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.24-18.02.05:838][374]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:LeftHandPinky4  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:RightHandPinky4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.03.24-18.02.10:079][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 208
+[2020.03.24-18.02.10:184][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 198
+[2020.03.24-18.02.11:158][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 188
+[2020.03.24-18.02.11:517][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 178
+[2020.03.24-18.02.14:738][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 168
+[2020.03.24-18.02.16:728][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 158
+[2020.03.24-18.02.17:242][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 148
+[2020.03.24-18.02.17:585][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 138
+[2020.03.24-18.02.19:594][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 128
+[2020.03.24-18.02.21:755][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 118
+[2020.03.24-18.02.21:772][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 108
+[2020.03.24-18.02.22:029][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 98
+[2020.03.24-18.02.23:965][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2020.03.24-18.02.26:301][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 78
+[2020.03.24-18.02.26:386][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 68
+[2020.03.24-18.02.26:916][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2020.03.24-18.02.27:893][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.03.24-18.02.31:364][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2020.03.24-18.02.32:732][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.03.24-18.02.33:448][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.03.24-18.02.34:275][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.03.24-18.02.36:316][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.03.24-18.02.36:848][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.03.24-18.02.37:156][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.03.24-18.02.37:346][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.24-18.02.38:015][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.24-18.02.38:259][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.24-18.03.03:312][374]LogSlate: Window 'Message' being destroyed
+[2020.03.24-18.03.03:333][374]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_Packed0_Diffuse.png)
+[2020.03.24-18.03.09:605][374]LogSlate: Window 'Message' being destroyed
+[2020.03.24-18.03.09:763][374]LogTexture: Display: Building textures: GD_Packed0_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.03.11:005][374]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_Packed0_Specular.png)
+[2020.03.24-18.03.11:083][374]LogTexture: Display: Building textures: GD_Packed0_Specular (AutoDXT, 2048X2048)
+[2020.03.24-18.03.11:892][374]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_Packed1_Diffuse.png)
+[2020.03.24-18.03.12:014][374]LogTexture: Display: Building textures: GD_Packed1_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.03.13:496][374]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_Packed1_Specular.png)
+[2020.03.24-18.03.13:564][374]LogTexture: Display: Building textures: GD_Packed1_Specular (AutoDXT, 2048X2048)
+[2020.03.24-18.03.14:893][374]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_Packed2_Diffuse.png)
+[2020.03.24-18.03.14:941][374]LogTexture: Display: Building textures: GD_Packed2_Diffuse (AutoDXT, 2048X2048)
+[2020.03.24-18.03.15:487][374]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_Packed2_Specular.png)
+[2020.03.24-18.03.15:528][374]LogTexture: Display: Building textures: GD_Packed2_Specular (AutoDXT, 2048X2048)
+[2020.03.24-18.03.16:073][374]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_Shirt.bmp)
+[2020.03.24-18.03.26:092][374]LogSlate: Window 'Message' being destroyed
+[2020.03.24-18.03.26:137][374]LogTexture: Display: Building textures: GD_Shirt (AutoDXT, 2048X2048)
+[2020.03.24-18.03.27:684][374]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_T-Pose.fbx)
+[2020.03.24-18.03.27:706][374]LogFbx: Loading FBX Scene from C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_T-Pose.fbx
+[2020.03.24-18.03.27:769][374]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.24-18.03.27:776][374]LogFbx: Valid bind pose for Pose (BindPose) - GD2:Shoes
+[2020.03.24-18.03.27:777][374]LogFbx: Triangulating skeletal mesh GD2:Shoes
+[2020.03.24-18.03.27:991][374]LogFbx: Triangulating skeletal mesh GD_Shirt:Group3156
+[2020.03.24-18.03.28:360][374]LogFbx: Triangulating skeletal mesh GD2:Gloves
+[2020.03.24-18.03.28:440][374]LogFbx: Triangulating skeletal mesh GD2:Beards
+[2020.03.24-18.03.28:544][374]LogFbx: Triangulating skeletal mesh GD2:Body
+[2020.03.24-18.03.29:327][374]LogFbx: Triangulating skeletal mesh GD2:default1
+[2020.03.24-18.03.29:331][374]LogFbx: Triangulating skeletal mesh GD2:Eyes
+[2020.03.24-18.03.29:385][374]LogFbx: Triangulating skeletal mesh GD2:Bottoms
+[2020.03.24-18.03.29:535][374]LogFbx: Triangulating skeletal mesh GD2:Hair
+[2020.03.24-18.03.29:738][374]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2020.03.24-18.03.31:158][374]LogSkeletalMesh: Section 0: 37693 vertices, 52 active bones
+[2020.03.24-18.03.31:165][374]LogSkeletalMesh: Section 0: Material=0, 54063 triangles
+[2020.03.24-18.03.31:177][374]LogSkeletalMesh: Building Skeletal Mesh GD_T-Pose...
+[2020.03.24-18.03.32:424][374]LogSkeletalMesh: Section 0: 37693 vertices, 52 active bones
+[2020.03.24-18.03.32:428][374]LogSkeletalMesh: Section 0: Material=0, 54063 triangles
+[2020.03.24-18.03.32:546][374]LogSkeletalMesh: Built Skeletal Mesh [1.37s] /Game/GUARD_DOG/GD_UNREAL/GD_T-Pose.GD_T-Pose
+[2020.03.24-18.03.32:553][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_Skeleton': Can't find file.
+[2020.03.24-18.03.32:554][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_Skeleton': Can't find file.
+[2020.03.24-18.03.32:555][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_PhysicsAsset': Can't find file.
+[2020.03.24-18.03.32:556][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_PhysicsAsset': Can't find file.
+[2020.03.24-18.03.32:606][374]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-18.03.32:606][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-18.03.32:680][374]FBXImport: Warning: Ignoring mesh default because it but no weights. 
+[2020.03.24-18.03.32:680][374]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.24-18.03.32:732][374]LogAssetTools: Warning: Failed to import 'C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD_UNREAL_READY.mb'. Unknown extension 'mb'.
+[2020.03.24-18.03.32:740][374]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/Unreal_GD.fbx)
+[2020.03.24-18.03.32:845][374]LogFbx: Loading FBX Scene from C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/Unreal_GD.fbx
+[2020.03.24-18.03.32:917][374]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.24-18.03.32:924][374]LogFbx: Valid bind pose for Pose (skinCluster1) - GD2:Shoes
+[2020.03.24-18.03.32:924][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Shoes : The relative matrices do not match
+[2020.03.24-18.03.32:924][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD_Shirt:Group3156 : The relative matrices do not match
+[2020.03.24-18.03.32:924][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Gloves : The relative matrices do not match
+[2020.03.24-18.03.32:924][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Beards : The relative matrices do not match
+[2020.03.24-18.03.32:924][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Body : The relative matrices do not match
+[2020.03.24-18.03.32:925][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:default1 : The relative matrices do not match
+[2020.03.24-18.03.32:925][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Eyes : The relative matrices do not match
+[2020.03.24-18.03.32:925][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Bottoms : The relative matrices do not match
+[2020.03.24-18.03.32:925][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node GD2:Hair : The relative matrices do not match
+[2020.03.24-18.03.32:926][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Shoes : The relative matrices do not match
+[2020.03.24-18.03.32:926][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD_Shirt:Group3156 : The relative matrices do not match
+[2020.03.24-18.03.32:926][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Gloves : The relative matrices do not match
+[2020.03.24-18.03.32:927][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Beards : The relative matrices do not match
+[2020.03.24-18.03.32:927][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Body : The relative matrices do not match
+[2020.03.24-18.03.32:927][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:default1 : The relative matrices do not match
+[2020.03.24-18.03.32:927][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Eyes : The relative matrices do not match
+[2020.03.24-18.03.32:928][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Bottoms : The relative matrices do not match
+[2020.03.24-18.03.32:928][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node GD2:Hair : The relative matrices do not match
+[2020.03.24-18.03.32:928][374]LogFbx: Valid bind pose for Pose (skinCluster4) - GD2:Shoes
+[2020.03.24-18.03.32:928][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Shoes : The relative matrices do not match
+[2020.03.24-18.03.32:929][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD_Shirt:Group3156 : The relative matrices do not match
+[2020.03.24-18.03.32:929][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Gloves : The relative matrices do not match
+[2020.03.24-18.03.32:929][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Beards : The relative matrices do not match
+[2020.03.24-18.03.32:930][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Body : The relative matrices do not match
+[2020.03.24-18.03.32:930][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:default1 : The relative matrices do not match
+[2020.03.24-18.03.32:930][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Eyes : The relative matrices do not match
+[2020.03.24-18.03.32:931][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Bottoms : The relative matrices do not match
+[2020.03.24-18.03.32:931][374]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node GD2:Hair : The relative matrices do not match
+[2020.03.24-18.03.32:931][374]LogFbx: Valid bind pose for Pose (skinCluster6) - GD2:Shoes
+[2020.03.24-18.03.32:931][374]LogFbx: Valid bind pose for Pose (skinCluster7) - GD2:Shoes
+[2020.03.24-18.03.32:931][374]LogFbx: Valid bind pose for Pose (skinCluster8) - GD2:Shoes
+[2020.03.24-18.03.32:931][374]LogFbx: Valid bind pose for Pose (skinCluster9) - GD2:Shoes
+[2020.03.24-18.03.32:935][374]LogFbx: Triangulating skeletal mesh GD2:Shoes
+[2020.03.24-18.03.33:156][374]LogFbx: Triangulating skeletal mesh GD_Shirt:Group3156
+[2020.03.24-18.03.33:525][374]LogFbx: Triangulating skeletal mesh GD2:Gloves
+[2020.03.24-18.03.33:610][374]LogFbx: Triangulating skeletal mesh GD2:Beards
+[2020.03.24-18.03.33:714][374]LogFbx: Triangulating skeletal mesh GD2:Body
+[2020.03.24-18.03.34:508][374]LogFbx: Triangulating skeletal mesh GD2:default1
+[2020.03.24-18.03.34:512][374]LogFbx: Triangulating skeletal mesh GD2:Eyes
+[2020.03.24-18.03.34:565][374]LogFbx: Triangulating skeletal mesh GD2:Bottoms
+[2020.03.24-18.03.34:715][374]LogFbx: Triangulating skeletal mesh GD2:Hair
+[2020.03.24-18.03.34:923][374]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2020.03.24-18.03.36:201][374]LogSkeletalMesh: Section 0: 8038 vertices, 39 active bones
+[2020.03.24-18.03.36:202][374]LogSkeletalMesh: Section 1: 9586 vertices, 12 active bones
+[2020.03.24-18.03.36:202][374]LogSkeletalMesh: Section 2: 3043 vertices, 3 active bones
+[2020.03.24-18.03.36:203][374]LogSkeletalMesh: Section 3: 12931 vertices, 52 active bones
+[2020.03.24-18.03.36:203][374]LogSkeletalMesh: Section 4: 106 vertices, 1 active bones
+[2020.03.24-18.03.36:203][374]LogSkeletalMesh: Section 5: 3989 vertices, 2 active bones
+[2020.03.24-18.03.36:208][374]LogSkeletalMesh: Section 0: Material=0, 13414 triangles
+[2020.03.24-18.03.36:208][374]LogSkeletalMesh: Section 1: Material=1, 10108 triangles
+[2020.03.24-18.03.36:208][374]LogSkeletalMesh: Section 2: Material=2, 2784 triangles
+[2020.03.24-18.03.36:208][374]LogSkeletalMesh: Section 3: Material=3, 23223 triangles
+[2020.03.24-18.03.36:208][374]LogSkeletalMesh: Section 4: Material=4, 114 triangles
+[2020.03.24-18.03.36:208][374]LogSkeletalMesh: Section 5: Material=5, 4420 triangles
+[2020.03.24-18.03.36:217][374]LogSkeletalMesh: Building Skeletal Mesh Unreal_GD...
+[2020.03.24-18.03.37:350][374]LogSkeletalMesh: Section 0: 8038 vertices, 39 active bones
+[2020.03.24-18.03.37:351][374]LogSkeletalMesh: Section 1: 9586 vertices, 12 active bones
+[2020.03.24-18.03.37:351][374]LogSkeletalMesh: Section 2: 3043 vertices, 3 active bones
+[2020.03.24-18.03.37:352][374]LogSkeletalMesh: Section 3: 12931 vertices, 52 active bones
+[2020.03.24-18.03.37:352][374]LogSkeletalMesh: Section 4: 106 vertices, 1 active bones
+[2020.03.24-18.03.37:352][374]LogSkeletalMesh: Section 5: 3989 vertices, 2 active bones
+[2020.03.24-18.03.37:356][374]LogSkeletalMesh: Section 0: Material=0, 13414 triangles
+[2020.03.24-18.03.37:356][374]LogSkeletalMesh: Section 1: Material=1, 10108 triangles
+[2020.03.24-18.03.37:356][374]LogSkeletalMesh: Section 2: Material=2, 2784 triangles
+[2020.03.24-18.03.37:356][374]LogSkeletalMesh: Section 3: Material=3, 23223 triangles
+[2020.03.24-18.03.37:356][374]LogSkeletalMesh: Section 4: Material=4, 114 triangles
+[2020.03.24-18.03.37:356][374]LogSkeletalMesh: Section 5: Material=5, 4420 triangles
+[2020.03.24-18.03.37:474][374]LogSkeletalMesh: Built Skeletal Mesh [1.26s] /Game/GUARD_DOG/GD_UNREAL/Unreal_GD.Unreal_GD
+[2020.03.24-18.03.37:500][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/Unreal_GD_Skeleton': Can't find file.
+[2020.03.24-18.03.37:500][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/Unreal_GD_Skeleton': Can't find file.
+[2020.03.24-18.03.37:502][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/Unreal_GD_PhysicsAsset': Can't find file.
+[2020.03.24-18.03.37:503][374]LogLinker: Failed to load '/Game/GUARD_DOG/GD_UNREAL/Unreal_GD_PhysicsAsset': Can't find file.
+[2020.03.24-18.03.37:514][374]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-18.03.37:514][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-18.03.37:576][374]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.24-18.03.37:576][374]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftShoulder  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:LeftHandPinky4  
+mixamorig:RightShoulder  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:RightHandPinky4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.03.24-18.03.37:638][374]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\orinp\Desktop\GUARD_DOG/GUARD_DOG_TEMP.fbx)
+[2020.03.24-18.03.37:712][374]LogFbx: Loading FBX Scene from C:\Users\orinp\Desktop\GUARD_DOG/GUARD_DOG_TEMP.fbx
+[2020.03.24-18.03.37:818][374]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.24-18.03.37:827][374]LogFbx: Valid bind pose for Pose (BindPose) - Group5305
+[2020.03.24-18.03.37:838][374]LogFbx: Triangulating skeletal mesh Group5305
+[2020.03.24-18.03.49:491][374]LogFbx: Triangulating skeletal mesh Group32637
+[2020.03.24-18.03.49:654][374]LogFbx: Triangulating skeletal mesh Group59970
+[2020.03.24-18.03.50:280][374]LogFbx: Triangulating skeletal mesh Group59971
+[2020.03.24-18.03.50:390][374]LogFbx: Triangulating skeletal mesh Group59972
+[2020.03.24-18.03.50:499][374]LogFbx: Triangulating skeletal mesh Group21762
+[2020.03.24-18.03.50:600][374]LogFbx: Triangulating skeletal mesh Group49091
+[2020.03.24-18.03.50:604][374]LogFbx: Triangulating skeletal mesh Group10883
+[2020.03.24-18.03.50:746][374]LogFbx: Triangulating skeletal mesh Group38210
+[2020.03.24-18.03.51:265][374]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2020.03.24-18.03.53:577][374]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.03.24-18.04.00:474][374]LogSkeletalMesh: Section 0: 188612 vertices, 52 active bones
+[2020.03.24-18.04.00:499][374]LogSkeletalMesh: Section 0: Material=0, 369838 triangles
+[2020.03.24-18.04.00:529][374]LogSkeletalMesh: Building Skeletal Mesh GUARD_DOG_TEMP...
+[2020.03.24-18.04.01:721][374]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.03.24-18.04.08:521][374]LogSkeletalMesh: Section 0: 188612 vertices, 52 active bones
+[2020.03.24-18.04.08:545][374]LogSkeletalMesh: Section 0: Material=0, 369838 triangles
+[2020.03.24-18.04.09:258][374]LogSkeletalMesh: Built Skeletal Mesh [8.73s] /Game/GUARD_DOG/GUARD_DOG_TEMP.GUARD_DOG_TEMP
+[2020.03.24-18.04.09:300][374]LogLinker: Failed to load '/Game/GUARD_DOG/GUARD_DOG_TEMP_Skeleton': Can't find file.
+[2020.03.24-18.04.09:301][374]LogLinker: Failed to load '/Game/GUARD_DOG/GUARD_DOG_TEMP_Skeleton': Can't find file.
+[2020.03.24-18.04.09:304][374]LogLinker: Failed to load '/Game/GUARD_DOG/GUARD_DOG_TEMP_PhysicsAsset': Can't find file.
+[2020.03.24-18.04.09:304][374]LogLinker: Failed to load '/Game/GUARD_DOG/GUARD_DOG_TEMP_PhysicsAsset': Can't find file.
+[2020.03.24-18.04.09:359][374]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-18.04.09:360][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-18.04.09:580][374]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.24-18.04.09:580][374]FBXImport: Warning: Mesh 'Group5305' has no UV set. Creating a default set. 
+[2020.03.24-18.04.09:580][374]FBXImport: Warning: Mesh 'Group32637' has no UV set. Creating a default set. 
+[2020.03.24-18.04.09:580][374]FBXImport: Warning: Mesh 'Group59970' has no UV set. Creating a default set. 
+[2020.03.24-18.04.09:580][374]FBXImport: Warning: Mesh 'Group59971' has no UV set. Creating a default set. 
+[2020.03.24-18.04.09:580][374]FBXImport: Warning: Mesh 'Group59972' has no UV set. Creating a default set. 
+[2020.03.24-18.04.09:580][374]FBXImport: Warning: Mesh 'Group21762' has no UV set. Creating a default set. 
+[2020.03.24-18.04.09:580][374]FBXImport: Warning: Mesh 'Group49091' has no UV set. Creating a default set. 
+[2020.03.24-18.04.09:580][374]FBXImport: Warning: Mesh 'Group10883' has no UV set. Creating a default set. 
+[2020.03.24-18.04.09:580][374]FBXImport: Warning: Mesh 'Group38210' has no UV set. Creating a default set. 
+[2020.03.24-18.04.10:229][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.03.24-18.04.10:243][375]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CityOfGuardDog' took 0.049
+[2020.03.24-18.04.10:245][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GUARD_DOG_TEMP_PhysicsAsset] ([1] browsable assets)...
+[2020.03.24-18.04.10:267][375]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/GUARD_DOG/GUARD_DOG_TEMP_PhysicsAsset.GUARD_DOG_TEMP_PhysicsAsset]
+[2020.03.24-18.04.10:267][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GUARD_DOG_TEMP_PhysicsAsset]
+[2020.03.24-18.04.10:279][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GUARD_DOG_TEMP_PhysicsAsset_Auto69CFBF3B4940CD8C4273A288A5781DEE.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GUARD_DOG_TEMP_PhysicsAsset_Auto1.uasset'
+[2020.03.24-18.04.10:282][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Beards] ([1] browsable assets)...
+[2020.03.24-18.04.10:300][375]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GUARD_DOG/GD_UNREAL/GD_Beards.GD_Beards]
+[2020.03.24-18.04.10:300][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Beards]
+[2020.03.24-18.04.10:323][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Beards_Auto1BF2227C74578C8BE9BD6A6B881908D5C.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Beards_Auto1.uasset'
+[2020.03.24-18.04.10:325][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/PackedMaterial2] ([1] browsable assets)...
+[2020.03.24-18.04.10:343][375]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GUARD_DOG/GD_UNREAL/PackedMaterial2.PackedMaterial2]
+[2020.03.24-18.04.10:343][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/PackedMaterial2]
+[2020.03.24-18.04.10:354][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/PackedMaterial2_Auto159B653A94CC510116F4F71AB72A26E49.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/PackedMaterial2_Auto1.uasset'
+[2020.03.24-18.04.10:356][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed1_Diffuse] ([1] browsable assets)...
+[2020.03.24-18.04.10:362][375]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GUARD_DOG/GD_UNREAL/GD_Packed1_Diffuse.GD_Packed1_Diffuse]
+[2020.03.24-18.04.10:362][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed1_Diffuse]
+[2020.03.24-18.04.10:375][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Packed1_Diffuse_Auto1D1D7A777401D106B23D4238A661D6E50.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Packed1_Diffuse_Auto1.uasset'
+[2020.03.24-18.04.10:378][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Body] ([1] browsable assets)...
+[2020.03.24-18.04.10:390][375]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GUARD_DOG/GD_UNREAL/GD_Body.GD_Body]
+[2020.03.24-18.04.10:390][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Body]
+[2020.03.24-18.04.10:458][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Body_Auto184A014EB499D7BADC3C902AF2FCE125D.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Body_Auto1.uasset'
+[2020.03.24-18.04.10:460][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/PackedMaterial0] ([1] browsable assets)...
+[2020.03.24-18.04.10:473][375]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GUARD_DOG/GD_UNREAL/PackedMaterial0.PackedMaterial0]
+[2020.03.24-18.04.10:473][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/PackedMaterial0]
+[2020.03.24-18.04.10:484][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/PackedMaterial0_Auto1F72E36DC4450A8560EC77FA668735281.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/PackedMaterial0_Auto1.uasset'
+[2020.03.24-18.04.10:486][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed0_Diffuse] ([1] browsable assets)...
+[2020.03.24-18.04.10:492][375]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GUARD_DOG/GD_UNREAL/GD_Packed0_Diffuse.GD_Packed0_Diffuse]
+[2020.03.24-18.04.10:492][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed0_Diffuse]
+[2020.03.24-18.04.10:507][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Packed0_Diffuse_Auto1E6CB91DC448522841CBB93A121CCC04E.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Packed0_Diffuse_Auto1.uasset'
+[2020.03.24-18.04.10:509][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Bottoms] ([1] browsable assets)...
+[2020.03.24-18.04.10:523][375]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GUARD_DOG/GD_UNREAL/GD_Bottoms.GD_Bottoms]
+[2020.03.24-18.04.10:523][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Bottoms]
+[2020.03.24-18.04.10:553][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Bottoms_Auto1759EE22A4B3FAC58DB07F2ADD31A75B8.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Bottoms_Auto1.uasset'
+[2020.03.24-18.04.10:555][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_default1] ([1] browsable assets)...
+[2020.03.24-18.04.10:567][375]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GUARD_DOG/GD_UNREAL/GD_default1.GD_default1]
+[2020.03.24-18.04.10:567][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_default1]
+[2020.03.24-18.04.10:578][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_default1_Auto19B6786C141F3553B96C4A68BF5F3BD62.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_default1_Auto1.uasset'
+[2020.03.24-18.04.10:580][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Eyes] ([1] browsable assets)...
+[2020.03.24-18.04.10:594][375]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GUARD_DOG/GD_UNREAL/GD_Eyes.GD_Eyes]
+[2020.03.24-18.04.10:594][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Eyes]
+[2020.03.24-18.04.10:612][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Eyes_Auto1FC582ADE4F3FBD205D32A7A520EDF76A.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Eyes_Auto1.uasset'
+[2020.03.24-18.04.10:615][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Gloves] ([1] browsable assets)...
+[2020.03.24-18.04.10:629][375]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GUARD_DOG/GD_UNREAL/GD_Gloves.GD_Gloves]
+[2020.03.24-18.04.10:629][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Gloves]
+[2020.03.24-18.04.10:649][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Gloves_Auto1BC26C81F49D3444825004ABD76D20C96.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Gloves_Auto1.uasset'
+[2020.03.24-18.04.10:651][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Hair] ([1] browsable assets)...
+[2020.03.24-18.04.10:664][375]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GUARD_DOG/GD_UNREAL/GD_Hair.GD_Hair]
+[2020.03.24-18.04.10:664][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Hair]
+[2020.03.24-18.04.10:693][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Hair_Auto13BCFFBF147AFF07A5E1CDB95AE9E278C.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Hair_Auto1.uasset'
+[2020.03.24-18.04.10:695][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/PackedMaterial4] ([1] browsable assets)...
+[2020.03.24-18.04.10:707][375]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GUARD_DOG/GD_UNREAL/PackedMaterial4.PackedMaterial4]
+[2020.03.24-18.04.10:707][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/PackedMaterial4]
+[2020.03.24-18.04.10:718][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/PackedMaterial4_Auto11BBF695442B36AB5526F9E8C19746176.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/PackedMaterial4_Auto1.uasset'
+[2020.03.24-18.04.10:720][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed2_Diffuse] ([1] browsable assets)...
+[2020.03.24-18.04.10:723][375]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GUARD_DOG/GD_UNREAL/GD_Packed2_Diffuse.GD_Packed2_Diffuse]
+[2020.03.24-18.04.10:723][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed2_Diffuse]
+[2020.03.24-18.04.10:734][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Packed2_Diffuse_Auto1238404854A6E4CAE956C9BA47B3E9E2C.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Packed2_Diffuse_Auto1.uasset'
+[2020.03.24-18.04.10:736][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Shoes] ([1] browsable assets)...
+[2020.03.24-18.04.10:748][375]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GUARD_DOG/GD_UNREAL/GD_Shoes.GD_Shoes]
+[2020.03.24-18.04.10:748][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Shoes]
+[2020.03.24-18.04.10:785][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Shoes_Auto19536C8DF4D2B250B9D5C60AF59ACA42F.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Shoes_Auto1.uasset'
+[2020.03.24-18.04.10:787][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Group3156] ([1] browsable assets)...
+[2020.03.24-18.04.10:800][375]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GUARD_DOG/GD_UNREAL/GD_Group3156.GD_Group3156]
+[2020.03.24-18.04.10:800][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Group3156]
+[2020.03.24-18.04.10:840][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Group3156_Auto1431E4A8B46E8743C94C35E95E0C236C0.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Group3156_Auto1.uasset'
+[2020.03.24-18.04.10:842][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/defaultMat] ([1] browsable assets)...
+[2020.03.24-18.04.10:855][375]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GUARD_DOG/GD_UNREAL/defaultMat.defaultMat]
+[2020.03.24-18.04.10:855][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/defaultMat]
+[2020.03.24-18.04.10:866][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/defaultMat_Auto1070954CA43BF65A1344E589F9B51CB4E.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/defaultMat_Auto1.uasset'
+[2020.03.24-18.04.10:869][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Shirt] ([1] browsable assets)...
+[2020.03.24-18.04.10:874][375]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GUARD_DOG/GD_UNREAL/GD_Shirt.GD_Shirt]
+[2020.03.24-18.04.10:874][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Shirt]
+[2020.03.24-18.04.10:886][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Shirt_Auto177FD87114AFEFC34067D3C9AE4841D34.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Shirt_Auto1.uasset'
+[2020.03.24-18.04.10:888][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Custom_Shirt] ([1] browsable assets)...
+[2020.03.24-18.04.10:893][375]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GUARD_DOG/GD_UNREAL/GD_Custom_Shirt.GD_Custom_Shirt]
+[2020.03.24-18.04.10:893][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Custom_Shirt]
+[2020.03.24-18.04.10:906][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Custom_Shirt_Auto18D92E421463421A5B9FB608393A7B47C.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Custom_Shirt_Auto1.uasset'
+[2020.03.24-18.04.10:908][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Fix] ([1] browsable assets)...
+[2020.03.24-18.04.10:930][375]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/GUARD_DOG/GD_UNREAL/GD_Fix.GD_Fix]
+[2020.03.24-18.04.10:930][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Fix]
+[2020.03.24-18.04.11:111][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Fix_Auto13BF7552346D8686D2DB122B2C86EDA35.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Fix_Auto1.uasset'
+[2020.03.24-18.04.11:113][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/lambert4] ([1] browsable assets)...
+[2020.03.24-18.04.11:134][375]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GUARD_DOG/GD_UNREAL/lambert4.lambert4]
+[2020.03.24-18.04.11:134][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/lambert4]
+[2020.03.24-18.04.11:144][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/lambert4_Auto1893C74F04635EDCA621998B46F547BD4.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/lambert4_Auto1.uasset'
+[2020.03.24-18.04.11:146][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/lambert2] ([1] browsable assets)...
+[2020.03.24-18.04.11:158][375]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GUARD_DOG/GD_UNREAL/lambert2.lambert2]
+[2020.03.24-18.04.11:158][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/lambert2]
+[2020.03.24-18.04.11:169][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/lambert2_Auto11A2A85AF4F31722BD4B6F49DDC309468.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/lambert2_Auto1.uasset'
+[2020.03.24-18.04.11:171][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/lambert6] ([1] browsable assets)...
+[2020.03.24-18.04.11:189][375]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GUARD_DOG/GD_UNREAL/lambert6.lambert6]
+[2020.03.24-18.04.11:189][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/lambert6]
+[2020.03.24-18.04.11:200][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/lambert6_Auto15FF33B2542CC766D74F2FE99A0EA0DCD.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/lambert6_Auto1.uasset'
+[2020.03.24-18.04.11:202][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/lambert3] ([1] browsable assets)...
+[2020.03.24-18.04.11:214][375]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GUARD_DOG/GD_UNREAL/lambert3.lambert3]
+[2020.03.24-18.04.11:214][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/lambert3]
+[2020.03.24-18.04.11:227][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/lambert3_Auto1345E6B7649785ECB0CC2478F4CFD3B2A.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/lambert3_Auto1.uasset'
+[2020.03.24-18.04.11:229][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/lambert7] ([1] browsable assets)...
+[2020.03.24-18.04.11:241][375]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GUARD_DOG/GD_UNREAL/lambert7.lambert7]
+[2020.03.24-18.04.11:241][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/lambert7]
+[2020.03.24-18.04.11:252][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/lambert7_Auto1161D8761410EFCC4076F03ABAF0E9E6E.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/lambert7_Auto1.uasset'
+[2020.03.24-18.04.11:255][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/lambert5] ([1] browsable assets)...
+[2020.03.24-18.04.11:267][375]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GUARD_DOG/GD_UNREAL/lambert5.lambert5]
+[2020.03.24-18.04.11:267][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/lambert5]
+[2020.03.24-18.04.11:277][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/lambert5_Auto1DF300F1B41CD7268B6373D891EEEAB27.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/lambert5_Auto1.uasset'
+[2020.03.24-18.04.11:279][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Fix_Skeleton] ([1] browsable assets)...
+[2020.03.24-18.04.11:279][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Fix_Skeleton]
+[2020.03.24-18.04.11:283][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Fix_Skeleton_Auto1668853C5410491FFE00C2E84B7E52B6E.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Fix_Skeleton_Auto1.uasset'
+[2020.03.24-18.04.11:285][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Fix_PhysicsAsset] ([1] browsable assets)...
+[2020.03.24-18.04.11:297][375]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/GUARD_DOG/GD_UNREAL/GD_Fix_PhysicsAsset.GD_Fix_PhysicsAsset]
+[2020.03.24-18.04.11:297][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Fix_PhysicsAsset]
+[2020.03.24-18.04.11:313][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Fix_PhysicsAsset_Auto1B071ECE74CF42628C6ADA8BB9C986DC6.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Fix_PhysicsAsset_Auto1.uasset'
+[2020.03.24-18.04.11:315][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed0_Specular] ([1] browsable assets)...
+[2020.03.24-18.04.11:319][375]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GUARD_DOG/GD_UNREAL/GD_Packed0_Specular.GD_Packed0_Specular]
+[2020.03.24-18.04.11:319][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed0_Specular]
+[2020.03.24-18.04.11:331][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Packed0_Specular_Auto11E546F91407962A160E82895240F2267.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Packed0_Specular_Auto1.uasset'
+[2020.03.24-18.04.11:333][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed1_Specular] ([1] browsable assets)...
+[2020.03.24-18.04.11:337][375]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GUARD_DOG/GD_UNREAL/GD_Packed1_Specular.GD_Packed1_Specular]
+[2020.03.24-18.04.11:337][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed1_Specular]
+[2020.03.24-18.04.11:348][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Packed1_Specular_Auto11B3AF0AE4172C875ECA59385B49A6315.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Packed1_Specular_Auto1.uasset'
+[2020.03.24-18.04.11:350][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed2_Specular] ([1] browsable assets)...
+[2020.03.24-18.04.11:353][375]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GUARD_DOG/GD_UNREAL/GD_Packed2_Specular.GD_Packed2_Specular]
+[2020.03.24-18.04.11:353][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_Packed2_Specular]
+[2020.03.24-18.04.11:363][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_Packed2_Specular_Auto199B4EC954D4CF8D05443F28631C84104.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_Packed2_Specular_Auto1.uasset'
+[2020.03.24-18.04.11:365][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose] ([1] browsable assets)...
+[2020.03.24-18.04.11:377][375]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/GUARD_DOG/GD_UNREAL/GD_T-Pose.GD_T-Pose]
+[2020.03.24-18.04.11:377][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose]
+[2020.03.24-18.04.11:528][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_T-Pose_Auto1DFB5E5774B19D68E25B77C83FE1C65CB.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_Auto1.uasset'
+[2020.03.24-18.04.11:530][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_Skeleton] ([1] browsable assets)...
+[2020.03.24-18.04.11:530][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_Skeleton]
+[2020.03.24-18.04.11:533][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_T-Pose_Skeleton_Auto1AE2929E543629B6DAF3EF4A12DCF24EC.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_Skeleton_Auto1.uasset'
+[2020.03.24-18.04.11:535][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_PhysicsAsset] ([1] browsable assets)...
+[2020.03.24-18.04.11:556][375]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_PhysicsAsset.GD_T-Pose_PhysicsAsset]
+[2020.03.24-18.04.11:556][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_PhysicsAsset]
+[2020.03.24-18.04.11:571][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GD_T-Pose_PhysicsAsset_Auto13E805EE649A79673E39C7F946930C916.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/GD_T-Pose_PhysicsAsset_Auto1.uasset'
+[2020.03.24-18.04.11:573][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/Unreal_GD] ([1] browsable assets)...
+[2020.03.24-18.04.11:586][375]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/GUARD_DOG/GD_UNREAL/Unreal_GD.Unreal_GD]
+[2020.03.24-18.04.11:586][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/Unreal_GD]
+[2020.03.24-18.04.11:735][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Unreal_GD_Auto157B935764759414E572D7E817965E475.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/Unreal_GD_Auto1.uasset'
+[2020.03.24-18.04.11:737][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/Unreal_GD_Skeleton] ([1] browsable assets)...
+[2020.03.24-18.04.11:737][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/Unreal_GD_Skeleton]
+[2020.03.24-18.04.11:740][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Unreal_GD_Skeleton_Auto1FDA836524919059CF1AB26A0D7667AD7.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/Unreal_GD_Skeleton_Auto1.uasset'
+[2020.03.24-18.04.11:742][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GD_UNREAL/Unreal_GD_PhysicsAsset] ([1] browsable assets)...
+[2020.03.24-18.04.11:760][375]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/GUARD_DOG/GD_UNREAL/Unreal_GD_PhysicsAsset.Unreal_GD_PhysicsAsset]
+[2020.03.24-18.04.11:760][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GD_UNREAL/Unreal_GD_PhysicsAsset]
+[2020.03.24-18.04.11:775][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Unreal_GD_PhysicsAsset_Auto160B63EFF43AF4B24A7064F8426E3482F.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GD_UNREAL/Unreal_GD_PhysicsAsset_Auto1.uasset'
+[2020.03.24-18.04.11:777][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GUARD_DOG/GUARD_DOG_TEMP] ([1] browsable assets)...
+[2020.03.24-18.04.11:792][375]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/GUARD_DOG/GUARD_DOG_TEMP.GUARD_DOG_TEMP]
+[2020.03.24-18.04.11:792][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GUARD_DOG_TEMP]
+[2020.03.24-18.04.12:599][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GUARD_DOG_TEMP_Auto1871633E74CEA909E88721F882C6B2B00.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GUARD_DOG_TEMP_Auto1.uasset'
+[2020.03.24-18.04.12:602][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GUARD_DOG/GUARD_DOG_TEMP_Skeleton] ([1] browsable assets)...
+[2020.03.24-18.04.12:602][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUARD_DOG/GUARD_DOG_TEMP_Skeleton]
+[2020.03.24-18.04.12:605][375]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/GUARD_DOG_TEMP_Skeleton_Auto1B65BD8E94252A5C2CE661597144C02EF.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/Autosaves/Game/GUARD_DOG/GUARD_DOG_TEMP_Skeleton_Auto1.uasset'
+[2020.03.24-18.04.12:607][375]LogFileHelpers: Auto-saving content packages took 2.364
+[2020.03.24-18.04.12:994][377]LogRenderer: Reallocating scene render targets to support 1100x488 Format 10 NumSamples 1 (Frame:5).
+[2020.03.24-18.06.40:734][999]LogSlate: Window 'Message Log' being destroyed
+[2020.03.24-18.06.40:742][999]LogSlate: Window 'Message Log' being destroyed
+[2020.03.24-18.06.45:686][272]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/GUARD_DOG/GD_UNREAL/GD_Fix.GD_Fix
+[2020.03.24-18.06.45:713][272]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.03.24-18.06.45:939][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.24-18.06.45:942][272]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.03.24-18.06.46:085][272]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.24-18.06.58:091][756]LogSlate: Window 'GD_Fix' being destroyed
+[2020.03.24-18.06.58:108][756]LogSlate: Window 'GD_Fix' being destroyed
+[2020.03.24-18.06.58:108][756]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-18.06.58:108][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-18.07.05:463][ 42]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/GUARD_DOG/GD_UNREAL/lambert4.lambert4
+[2020.03.24-18.07.05:470][ 42]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.07.05:517][ 42]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2020.03.24-18.07.05:517][ 42]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 65
+[2020.03.24-18.07.05:517][ 42]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2020.03.24-18.07.05:517][ 42]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 63
+[2020.03.24-18.07.05:795][ 42]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.07.05:909][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.24-18.07.05:932][ 42]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.24-18.07.05:967][ 42]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 74
+[2020.03.24-18.07.05:967][ 42]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 73
+[2020.03.24-18.07.06:032][ 42]LogSlate: Took 0.000537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.24-18.07.06:187][ 43]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.03.24-18.07.06:187][ 43]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2020.03.24-18.07.06:298][ 46]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2020.03.24-18.07.06:355][ 47]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 69
+[2020.03.24-18.07.06:738][ 51]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2020.03.24-18.07.06:799][ 51]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 67
+[2020.03.24-18.07.07:694][ 83]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2020.03.24-18.07.07:837][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 65
+[2020.03.24-18.07.07:941][ 92]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 64
+[2020.03.24-18.07.08:916][125]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 63
+[2020.03.24-18.07.08:949][127]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2020.03.24-18.07.09:077][131]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.07.09:160][131]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.24-18.07.09:774][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 73
+[2020.03.24-18.07.09:827][154]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 72
+[2020.03.24-18.07.09:896][157]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2020.03.24-18.07.10:036][164]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2020.03.24-18.07.10:172][168]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.07.10:225][168]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.07.10:289][168]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.07.10:464][172]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.03.24-18.07.10:561][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.03.24-18.07.10:657][180]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.03.24-18.07.10:939][188]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.03.24-18.07.11:433][206]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.03.24-18.07.11:511][209]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.03.24-18.07.11:564][209]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.03.24-18.07.11:853][220]LogMaterialEditor: Saving and Compiling material lambert4
+[2020.03.24-18.07.13:018][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.03.24-18.07.13:018][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.03.24-18.07.13:018][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.03.24-18.07.13:018][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.03.24-18.07.13:018][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.03.24-18.07.13:018][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.03.24-18.07.13:054][220]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.07.13:125][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.03.24-18.07.13:125][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.03.24-18.07.13:125][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.03.24-18.07.13:308][220]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.07.13:566][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2020.03.24-18.07.13:672][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.03.24-18.07.13:937][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2020.03.24-18.07.13:948][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2020.03.24-18.07.14:167][220]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.03.24-18.07.14:203][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2020.03.24-18.07.14:203][220]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 59
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 53
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 45
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.03.24-18.07.17:025][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.03.24-18.07.17:026][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.03.24-18.07.17:031][220]TextureStreamingBuild: Display: Compiling optional shaders took 2.857 seconds.
+[2020.03.24-18.07.17:095][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.24-18.07.21:550][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.03.24-18.07.21:550][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.24-18.07.21:550][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.03.24-18.07.21:550][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.24-18.07.21:550][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.03.24-18.07.21:550][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.03.24-18.07.21:642][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUARD_DOG/GD_UNREAL/lambert4" FILE="../../../../../../Users/orinp/Desktop/machinimaProject/Content/GUARD_DOG/GD_UNREAL/lambert4.uasset" SILENT=true
+[2020.03.24-18.07.21:656][220]LogSavePackage: Moving '../../../../../../Users/orinp/Desktop/machinimaProject/Saved/lambert4C0F671AC408F3AA85FA5B69A33844A1D.tmp' to '../../../../../../Users/orinp/Desktop/machinimaProject/Content/GUARD_DOG/GD_UNREAL/lambert4.uasset'
+[2020.03.24-18.07.21:725][220]AssetCheck: New page: Asset Save: lambert4
+[2020.03.24-18.07.21:725][220]LogContentValidation: Display: Validating Material /Game/GUARD_DOG/GD_UNREAL/lambert4.lambert4
+[2020.03.24-18.07.21:728][220]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.03.24-18.07.21:729][220]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.03.24-18.07.21:729][220]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.24-18.07.21:729][220]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2020.03.24-18.07.21:729][220]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.24-18.07.21:729][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.24-18.07.21:729][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.24-18.07.26:369][390]LogSlate: Window 'lambert4' being destroyed
+[2020.03.24-18.07.26:391][390]LogSlate: Window 'lambert4' being destroyed
+[2020.03.24-18.07.26:435][390]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.03.24-18.07.26:435][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.24-18.07.31:593][607]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (GUARD_DOG_TEMP)
+[2020.03.24-18.07.33:549][719]Cmd: DELETE
+[2020.03.24-18.07.33:549][719]Cmd: ACTOR DELETE
+[2020.03.24-18.07.33:946][719]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.03.24-18.07.33:977][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.03.24-18.07.33:978][719]LogEditorActor: Deleted 1 Actors (0.427 secs)
+[2020.03.24-18.07.53:392][844]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere_2)
+[2020.03.24-18.08.04:140][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.03.24-18.08.06:752][374]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.24-18.08.09:514][374]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/GUARD_DOG/GUARD_DOG/GUARD_DOG_TEMP_PhysicsAsset.GUARD_DOG_TEMP_PhysicsAsset
+	Asset Name: /Game/GUARD_DOG/GUARD_DOG/GUARD_DOG_TEMP_Skeleton.GUARD_DOG_TEMP_Skeleton
+	Asset Name: /Game/GUARD_DOG/GUARD_DOG/GUARD_DOG_TEMP.GUARD_DOG_TEMP
+[2020.03.24-18.08.13:641][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.03.24-18.08.13:672][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.03.24-18.08.13:696][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.03.24-18.08.13:721][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.03.24-18.08.13:747][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.03.24-18.08.23:926][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.03.24-18.08.42:898][815]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.24-18.09.15:545][815]LogUObjectGlobals: Force Deleting 36 Package(s):
+	Asset Name: /Game/GUARD_DOG/GD_UNREAL/GD_Hair.GD_Hair
+	Asset Name: /Game/GUARD_DOG/GD_UNREAL/GD_Gloves.GD_Gloves
+	Asset Name: /Game/GUARD_DOG/GD_UNREAL/GD_Eyes.GD_Eyes
+	Asset Name: /Game/GUARD_DOG/GD_UNREAL/GD_default1.GD_default1
+	Asset Name: /Game/GUARD_DOG/GD_UNREAL/GD_Bottoms.GD_Bottoms
+	Asset Name: /Game/GUARD_DOG/GD_UNREAL/GD_Packed0_Diffuse.GD_Packed0_Diffuse
+	Asset Name: /Game/GUARD_DOG/GD_UNREAL/PackedMaterial0.PackedMaterial0
+	Asset Name: /Game/GUARD_DOG/GD_UNREAL/GD_Body.GD_Body
+	Asset Name: /Game/GUARD_DOG/GD_UNREAL/GD_Packed1_Diffuse.GD_Packed1_Diffuse
+	Asset Name: /Game/GUARD_DOG/GD_UNREAL/PackedMaterial2.PackedMaterial2
+[2020.03.24-18.09.16:644][815]LogMaterial: Display: Missing cached shader map for material PackedMaterial2, compiling. 
+[2020.03.24-18.09.16:645][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/PackedMaterial2.PackedMaterial2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:645][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:652][815]LogMaterial: Display: Missing cached shader map for material PackedMaterial2, compiling. 
+[2020.03.24-18.09.16:653][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/PackedMaterial2.PackedMaterial2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:653][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:662][815]LogMaterial: Display: Missing cached shader map for material defaultMat, compiling. 
+[2020.03.24-18.09.16:662][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/defaultMat.defaultMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:662][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:669][815]LogMaterial: Display: Missing cached shader map for material defaultMat, compiling. 
+[2020.03.24-18.09.16:669][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/defaultMat.defaultMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:669][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:677][815]LogMaterial: Display: Missing cached shader map for material PackedMaterial4, compiling. 
+[2020.03.24-18.09.16:678][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/PackedMaterial4.PackedMaterial4 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:678][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:685][815]LogMaterial: Display: Missing cached shader map for material PackedMaterial4, compiling. 
+[2020.03.24-18.09.16:685][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/PackedMaterial4.PackedMaterial4 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:685][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:736][815]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.03.24-18.09.16:737][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/lambert2.lambert2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:737][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:744][815]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.03.24-18.09.16:745][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/lambert2.lambert2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:745][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:798][815]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.03.24-18.09.16:798][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/lambert3.lambert3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:798][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:805][815]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.03.24-18.09.16:806][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/lambert3.lambert3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:806][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:820][815]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2020.03.24-18.09.16:821][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/PackedMaterial0.PackedMaterial0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:821][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:827][815]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2020.03.24-18.09.16:828][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/PackedMaterial0.PackedMaterial0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:828][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:853][815]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.09.16:854][815]LogMaterial: Warning: C:\Users\orinp\Desktop\machinimaProject\Content\GUARD_DOG\GD_UNREAL\lambert4.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:854][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.16:861][815]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.24-18.09.16:861][815]LogMaterial: Warning: C:\Users\orinp\Desktop\machinimaProject\Content\GUARD_DOG\GD_UNREAL\lambert4.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.16:861][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.17:018][815]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.03.24-18.09.17:019][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/lambert5.lambert5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.17:019][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.17:026][815]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.03.24-18.09.17:027][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/lambert5.lambert5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.17:027][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.17:034][815]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2020.03.24-18.09.17:035][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/lambert6.lambert6 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.17:035][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.17:042][815]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2020.03.24-18.09.17:042][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/lambert6.lambert6 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.17:042][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.17:049][815]LogMaterial: Display: Missing cached shader map for material lambert7, compiling. 
+[2020.03.24-18.09.17:050][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/lambert7.lambert7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.17:050][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.17:056][815]LogMaterial: Display: Missing cached shader map for material lambert7, compiling. 
+[2020.03.24-18.09.17:057][815]LogMaterial: Warning: /Game/GUARD_DOG/GD_UNREAL/lambert7.lambert7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.24-18.09.17:057][815]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.24-18.09.34:874][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.03.24-18.09.34:908][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.03.24-18.09.34:938][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.03.24-18.09.56:593][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.03.24-18.09.58:130][883]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.24-18.10.00:017][883]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/GUARD_DOG/GUARD_DOG_TEMP.GUARD_DOG_TEMP
+[2020.03.24-18.10.01:170][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.03.24-18.10.01:192][884]LogLinker: Warning: Failed to load '/Game/GUARD_DOG/GUARD_DOG_TEMP': Can't find file.
+[2020.03.24-18.10.01:192][884]LogLinker: Warning: Failed to load '/Game/GUARD_DOG/GUARD_DOG_TEMP': Can't find file.
+[2020.03.24-18.10.01:192][884]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/GUARD_DOG/GUARD_DOG_TEMP.GUARD_DOG_TEMP'
+[2020.03.24-18.10.02:913][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.03.24-18.10.05:128][977]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.24-18.10.05:263][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.03.24-18.10.21:014][882]LogAssetTools: Warning: Failed to import 'C:\Users\orinp\Desktop\GUARD_DOG/GD_UNREAL/GD.mtl'. Unknown extension 'mtl'.
+[2020.03.24-18.10.21:014][882]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.24-18.10.21:054][882]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.040 s
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: 
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: Ensure condition failed: ExpectedWorkThisFrame <= 1.01f * TotalAmountOfWork - CompletedWork [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Misc/SlowTask.cpp] [Line: 113]
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: Work overflow in slow task. Please revise call-site to account for entire progress range.
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: Stack: 
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffeb61e0366 UE4Editor-Core.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffeb5c9de4e UE4Editor-Core.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffe9d088ac2 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffe9d0876b1 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffea6c69dc2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffea6c1ff89 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffea6b6245f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffeb7b87518 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffeb7b62473 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffeb7be936c UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffeb7bd413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffeb7bc6373 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffec1372914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffec1362bda UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff30be79a2 ole32.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f076953 RPCRT4.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f0da036 RPCRT4.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f038289 RPCRT4.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f1c2d5f combase.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f14f333 combase.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f14f123 combase.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f1c5936 combase.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f168a1a combase.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f15252d combase.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f17736c combase.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f177bd1 combase.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff2f1a0c2d combase.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff30915c0d USER32.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007fff30915602 USER32.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ffec1378699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ff7e4af6db0 UE4Editor.exe!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ff7e4b0c3ec UE4Editor.exe!UnknownFunction []
+[2020.03.24-18.10.21:054][882]LogOutputDevice: Error: [Callstack] 0x00007ff7e4b0c4ca UE4Editor.exe!UnknownFunction []
+[2020.03.24-18.10.21:055][882]LogOutputDevice: Error: [Callstack] 0x00007ff7e4b1ceae UE4Editor.exe!UnknownFunction []
+[2020.03.24-18.10.21:055][882]LogOutputDevice: Error: [Callstack] 0x00007ff7e4b1fcbe UE4Editor.exe!UnknownFunction []
+[2020.03.24-18.10.21:055][882]LogOutputDevice: Error: [Callstack] 0x00007fff30147bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.24-18.10.21:055][882]LogOutputDevice: Error: [Callstack] 0x00007fff30eaced1 ntdll.dll!UnknownFunction []
+[2020.03.24-18.10.21:055][882]LogOutputDevice: Error: 
+[2020.03.24-18.10.21:061][882]LogStats:                SubmitErrorReport -  0.000 s
